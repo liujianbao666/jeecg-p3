@@ -1,0 +1,478 @@
+2018-11-21 13:37:30,448 - ResourceManager : unable to find resource 'content/personalstake/main/evCg-list.vm' in any resource loader.
+2018-11-21 13:37:38,657 - ResourceManager : unable to find resource 'content/personalstake/main/evCg-list.vm' in any resource loader.
+2018-11-22 10:56:07,173 - ResourceManager : unable to find resource 'content/yxcd/main/menu.vm' in any resource loader.
+2018-11-22 10:56:07,174 - #parse(): cannot find template 'content/yxcd/main/menu.vm', called at content/personalStakeManage/main/index.vm[line 27, column 5]
+2018-11-22 11:07:36,101 - ResourceManager : unable to find resource 'content/yxcd/main/menu.vm' in any resource loader.
+2018-11-22 11:07:36,103 - #parse(): cannot find template 'content/yxcd/main/menu.vm', called at content/personalStakeManage/main/index.vm[line 27, column 5]
+2018-11-22 12:11:28,894 - ResourceManager : unable to find resource 'content/yxcd/main/menu.vm' in any resource loader.
+2018-11-22 12:11:28,898 - #parse(): cannot find template 'content/yxcd/main/menu.vm', called at content/personalStakeManage/main/index.vm[line 27, column 5]
+2018-11-22 19:14:22,493 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:14:22,494 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 9, column 9]
+2018-11-22 19:14:44,973 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:14:44,973 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 9, column 9]
+2018-11-22 19:14:47,157 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:14:47,157 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 9, column 9]
+2018-11-22 19:17:07,202 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:17:07,202 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 9, column 9]
+2018-11-22 19:17:09,120 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:17:09,120 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 9, column 9]
+2018-11-22 19:17:09,292 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:17:09,292 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 9, column 9]
+2018-11-22 19:17:09,472 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:17:09,473 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 9, column 9]
+2018-11-22 19:17:09,663 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:17:09,663 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 9, column 9]
+2018-11-22 19:18:12,531 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:18:12,531 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 9, column 9]
+2018-11-22 19:18:13,717 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:18:13,717 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 9, column 9]
+2018-11-22 19:18:13,860 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:18:13,860 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 9, column 9]
+2018-11-22 19:18:14,057 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:18:14,057 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 9, column 9]
+2018-11-22 19:18:14,218 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:18:14,218 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 9, column 9]
+2018-11-22 19:18:14,375 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:18:14,376 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 9, column 9]
+2018-11-22 19:18:49,963 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:18:49,963 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 9, column 9]
+2018-11-22 19:19:01,026 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:19:01,026 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 9, column 9]
+2018-11-22 19:19:01,789 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:19:01,789 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 9, column 9]
+2018-11-22 19:21:27,128 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:21:27,128 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 4, column 9]
+2018-11-22 19:21:35,364 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:21:35,364 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 4, column 9]
+2018-11-22 19:24:16,894 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:24:16,895 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 4, column 9]
+2018-11-22 19:24:27,775 - ResourceManager : unable to find resource 'content/yxcd/resource.vm' in any resource loader.
+2018-11-22 19:24:27,776 - #parse(): cannot find template 'content/yxcd/resource.vm', called at content/personalstake/order/historyOrder.vm[line 4, column 9]
+2018-12-11 20:48:36,744 - ResourceManager : unable to find resource 'content/personalstake/main/index.vm' in any resource loader.
+2018-12-13 20:56:09,997 - Log4JLogChute initialized using file 'velocity.log'
+2018-12-13 20:56:09,997 - Starting Apache Velocity v1.6.4 (compiled: 2010-04-27 15:31:23)
+2018-12-13 20:56:09,997 - Default Properties File: org\apache\velocity\runtime\defaults\velocity.properties
+2018-12-13 20:56:09,997 - Trying to use logger class org.apache.velocity.runtime.log.Log4JLogChute
+2018-12-13 20:56:09,997 - Using logger class org.apache.velocity.runtime.log.Log4JLogChute
+2018-12-13 20:56:09,997 - ResourceLoader instantiated: org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2018-12-13 20:56:10,007 - ResourceCache: initialized (class org.apache.velocity.runtime.resource.ResourceCacheImpl) with class java.util.Collections$SynchronizedMap cache map.
+2018-12-13 20:56:10,018 - Loaded System Directive: org.apache.velocity.runtime.directive.Define
+2018-12-13 20:56:10,018 - Loaded System Directive: org.apache.velocity.runtime.directive.Break
+2018-12-13 20:56:10,019 - Loaded System Directive: org.apache.velocity.runtime.directive.Evaluate
+2018-12-13 20:56:10,019 - Loaded System Directive: org.apache.velocity.runtime.directive.Literal
+2018-12-13 20:56:10,020 - Loaded System Directive: org.apache.velocity.runtime.directive.Macro
+2018-12-13 20:56:10,021 - Loaded System Directive: org.apache.velocity.runtime.directive.Parse
+2018-12-13 20:56:10,022 - Loaded System Directive: org.apache.velocity.runtime.directive.Include
+2018-12-13 20:56:10,023 - Loaded System Directive: org.apache.velocity.runtime.directive.Foreach
+2018-12-13 20:56:10,024 - Loaded User Directive: org.jeecgframework.p3.core.directive.AuthFilterTagDirective
+2018-12-13 20:56:10,025 - Loaded User Directive: org.jeecgframework.p3.core.directive.AuthOperateTagDirective
+2018-12-13 20:56:10,026 - Loaded User Directive: com.jeecg.core.biz.tag.select.dict.tag.SelectDictTag
+2018-12-13 20:56:10,026 - Loaded User Directive: com.jeecg.core.biz.tag.select.table.tag.SelectTableTag
+2018-12-13 20:56:10,026 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,037 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,037 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,037 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,037 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,037 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,037 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,037 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,037 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,037 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,037 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,037 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,037 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,037 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,037 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,047 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,047 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,047 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,047 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,047 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,047 - Created '20' parsers.
+2018-12-13 20:56:10,047 - Velocimacro : "velocimacro.library" is not set.  Trying default library: VM_global_library.vm
+2018-12-13 20:56:10,047 - Velocity was not initialized! Calling init()...
+2018-12-13 20:56:10,047 - Could not load resource 'VM_global_library.vm' from ResourceLoader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader: 
+org.apache.velocity.exception.ResourceNotFoundException: ClasspathResourceLoader Error: cannot find resource VM_global_library.vm
+	at org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader.getResourceStream(ClasspathResourceLoader.java:131)
+	at org.apache.velocity.runtime.resource.loader.ResourceLoader.resourceExists(ResourceLoader.java:224)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getLoaderForResource(ResourceManagerImpl.java:641)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getLoaderNameForResource(ResourceManagerImpl.java:624)
+	at org.apache.velocity.runtime.RuntimeInstance.getLoaderNameForResource(RuntimeInstance.java:1464)
+	at org.apache.velocity.runtime.VelocimacroFactory.initVelocimacro(VelocimacroFactory.java:159)
+	at org.apache.velocity.runtime.RuntimeInstance.init(RuntimeInstance.java:261)
+	at org.apache.velocity.runtime.RuntimeInstance.init(RuntimeInstance.java:589)
+	at org.apache.velocity.runtime.RuntimeSingleton.init(RuntimeSingleton.java:229)
+	at org.apache.velocity.app.Velocity.init(Velocity.java:107)
+	at org.jeecgframework.p3.core.util.plugin.ViewVelocity.afterPropertiesSet(ViewVelocity.java:73)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1613)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1550)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:539)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:229)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:706)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5003)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5517)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1574)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1564)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-13 20:56:10,047 - Velocimacro : Default library not found.
+2018-12-13 20:56:10,047 - Velocimacro : allowInline = true : VMs can be defined inline in templates
+2018-12-13 20:56:10,047 - Velocimacro : allowInlineToOverride = false : VMs defined inline may NOT replace previous VM definitions
+2018-12-13 20:56:10,047 - Velocimacro : allowInlineLocal = false : VMs defined inline will be global in scope if allowed.
+2018-12-13 20:56:10,047 - Velocimacro : autoload off : VM system will not automatically reload global library macros
+2018-12-13 20:57:49,282 - Log4JLogChute initialized using file 'velocity.log'
+2018-12-13 20:57:49,282 - Starting Apache Velocity v1.6.4 (compiled: 2010-04-27 15:31:23)
+2018-12-13 20:57:49,282 - Default Properties File: org\apache\velocity\runtime\defaults\velocity.properties
+2018-12-13 20:57:49,282 - Trying to use logger class org.apache.velocity.runtime.log.Log4JLogChute
+2018-12-13 20:57:49,282 - Using logger class org.apache.velocity.runtime.log.Log4JLogChute
+2018-12-13 20:57:49,282 - ResourceLoader instantiated: org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2018-12-13 20:57:49,302 - ResourceCache: initialized (class org.apache.velocity.runtime.resource.ResourceCacheImpl) with class java.util.Collections$SynchronizedMap cache map.
+2018-12-13 20:57:49,302 - Loaded System Directive: org.apache.velocity.runtime.directive.Define
+2018-12-13 20:57:49,302 - Loaded System Directive: org.apache.velocity.runtime.directive.Break
+2018-12-13 20:57:49,302 - Loaded System Directive: org.apache.velocity.runtime.directive.Evaluate
+2018-12-13 20:57:49,302 - Loaded System Directive: org.apache.velocity.runtime.directive.Literal
+2018-12-13 20:57:49,312 - Loaded System Directive: org.apache.velocity.runtime.directive.Macro
+2018-12-13 20:57:49,312 - Loaded System Directive: org.apache.velocity.runtime.directive.Parse
+2018-12-13 20:57:49,312 - Loaded System Directive: org.apache.velocity.runtime.directive.Include
+2018-12-13 20:57:49,312 - Loaded System Directive: org.apache.velocity.runtime.directive.Foreach
+2018-12-13 20:57:49,312 - Loaded User Directive: org.jeecgframework.p3.core.directive.AuthFilterTagDirective
+2018-12-13 20:57:49,312 - Loaded User Directive: org.jeecgframework.p3.core.directive.AuthOperateTagDirective
+2018-12-13 20:57:49,312 - Loaded User Directive: com.jeecg.core.biz.tag.select.dict.tag.SelectDictTag
+2018-12-13 20:57:49,312 - Loaded User Directive: com.jeecg.core.biz.tag.select.table.tag.SelectTableTag
+2018-12-13 20:57:49,322 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,342 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,342 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,342 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,342 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,342 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,342 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,342 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,342 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,342 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,342 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,342 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,342 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,342 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,342 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,342 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,342 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,342 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,342 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,342 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,342 - Created '20' parsers.
+2018-12-13 20:57:49,352 - Velocimacro : "velocimacro.library" is not set.  Trying default library: VM_global_library.vm
+2018-12-13 20:57:49,352 - Velocity was not initialized! Calling init()...
+2018-12-13 20:57:49,352 - Could not load resource 'VM_global_library.vm' from ResourceLoader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader: 
+org.apache.velocity.exception.ResourceNotFoundException: ClasspathResourceLoader Error: cannot find resource VM_global_library.vm
+	at org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader.getResourceStream(ClasspathResourceLoader.java:131)
+	at org.apache.velocity.runtime.resource.loader.ResourceLoader.resourceExists(ResourceLoader.java:224)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getLoaderForResource(ResourceManagerImpl.java:641)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getLoaderNameForResource(ResourceManagerImpl.java:624)
+	at org.apache.velocity.runtime.RuntimeInstance.getLoaderNameForResource(RuntimeInstance.java:1464)
+	at org.apache.velocity.runtime.VelocimacroFactory.initVelocimacro(VelocimacroFactory.java:159)
+	at org.apache.velocity.runtime.RuntimeInstance.init(RuntimeInstance.java:261)
+	at org.apache.velocity.runtime.RuntimeInstance.init(RuntimeInstance.java:589)
+	at org.apache.velocity.runtime.RuntimeSingleton.init(RuntimeSingleton.java:229)
+	at org.apache.velocity.app.Velocity.init(Velocity.java:107)
+	at org.jeecgframework.p3.core.util.plugin.ViewVelocity.afterPropertiesSet(ViewVelocity.java:73)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1613)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1550)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:539)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:229)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:706)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5003)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5517)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1574)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1564)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-13 20:57:49,375 - Velocimacro : Default library not found.
+2018-12-13 20:57:49,375 - Velocimacro : allowInline = true : VMs can be defined inline in templates
+2018-12-13 20:57:49,375 - Velocimacro : allowInlineToOverride = false : VMs defined inline may NOT replace previous VM definitions
+2018-12-13 20:57:49,375 - Velocimacro : allowInlineLocal = false : VMs defined inline will be global in scope if allowed.
+2018-12-13 20:57:49,375 - Velocimacro : autoload off : VM system will not automatically reload global library macros
+2018-12-13 21:00:12,105 - ResourceManager : found content/personalstake/main/index.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2018-12-13 21:00:12,179 - ResourceManager : found content/personalstake/main/menu.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2018-12-13 21:00:12,221 - ResourceManager : found content/personalstake/main/right.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2018-12-13 21:00:12,697 - ResourceManager : found content/base/back/main/home.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2018-12-13 21:00:14,545 - ResourceManager : found content/personalstake/chargepile/evCg-list.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2018-12-13 21:00:14,847 - ResourceManager : found content/personalstake/common/resource.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2018-12-13 21:01:35,199 - ResourceManager : found content/personalstake/main/index.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2018-12-13 21:01:35,258 - ResourceManager : found content/personalstake/main/menu.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2018-12-13 21:01:35,318 - ResourceManager : found content/personalstake/main/right.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2018-12-13 21:01:35,649 - ResourceManager : found content/base/back/main/home.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2018-12-13 21:02:56,362 - ResourceManager : found content/personalstake/chargepile/evCg-list.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2018-12-13 21:02:56,698 - ResourceManager : found content/personalstake/common/resource.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2018-12-14 10:28:07,934 - Log4JLogChute initialized using file 'velocity.log'
+2018-12-14 10:28:07,934 - Starting Apache Velocity v1.6.4 (compiled: 2010-04-27 15:31:23)
+2018-12-14 10:28:07,934 - Default Properties File: org\apache\velocity\runtime\defaults\velocity.properties
+2018-12-14 10:28:07,934 - Trying to use logger class org.apache.velocity.runtime.log.Log4JLogChute
+2018-12-14 10:28:07,934 - Using logger class org.apache.velocity.runtime.log.Log4JLogChute
+2018-12-14 10:28:07,944 - ResourceLoader instantiated: org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2018-12-14 10:28:07,954 - ResourceCache: initialized (class org.apache.velocity.runtime.resource.ResourceCacheImpl) with class java.util.Collections$SynchronizedMap cache map.
+2018-12-14 10:28:07,954 - Loaded System Directive: org.apache.velocity.runtime.directive.Define
+2018-12-14 10:28:07,954 - Loaded System Directive: org.apache.velocity.runtime.directive.Break
+2018-12-14 10:28:07,954 - Loaded System Directive: org.apache.velocity.runtime.directive.Evaluate
+2018-12-14 10:28:07,954 - Loaded System Directive: org.apache.velocity.runtime.directive.Literal
+2018-12-14 10:28:07,954 - Loaded System Directive: org.apache.velocity.runtime.directive.Macro
+2018-12-14 10:28:07,964 - Loaded System Directive: org.apache.velocity.runtime.directive.Parse
+2018-12-14 10:28:07,964 - Loaded System Directive: org.apache.velocity.runtime.directive.Include
+2018-12-14 10:28:07,964 - Loaded System Directive: org.apache.velocity.runtime.directive.Foreach
+2018-12-14 10:28:07,964 - Loaded User Directive: org.jeecgframework.p3.core.directive.AuthFilterTagDirective
+2018-12-14 10:28:07,964 - Loaded User Directive: org.jeecgframework.p3.core.directive.AuthOperateTagDirective
+2018-12-14 10:28:07,964 - Loaded User Directive: com.jeecg.core.biz.tag.select.dict.tag.SelectDictTag
+2018-12-14 10:28:07,964 - Loaded User Directive: com.jeecg.core.biz.tag.select.table.tag.SelectTableTag
+2018-12-14 10:28:07,974 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:07,994 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:07,994 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:07,994 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:07,994 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:07,994 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:07,994 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:07,994 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:07,994 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:07,994 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:07,994 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:07,994 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:07,994 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:07,994 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:07,994 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:07,994 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:07,994 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:07,994 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:07,994 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:07,994 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:07,994 - Created '20' parsers.
+2018-12-14 10:28:08,004 - Velocimacro : "velocimacro.library" is not set.  Trying default library: VM_global_library.vm
+2018-12-14 10:28:08,004 - Velocity was not initialized! Calling init()...
+2018-12-14 10:28:08,004 - Could not load resource 'VM_global_library.vm' from ResourceLoader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader: 
+org.apache.velocity.exception.ResourceNotFoundException: ClasspathResourceLoader Error: cannot find resource VM_global_library.vm
+	at org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader.getResourceStream(ClasspathResourceLoader.java:131)
+	at org.apache.velocity.runtime.resource.loader.ResourceLoader.resourceExists(ResourceLoader.java:224)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getLoaderForResource(ResourceManagerImpl.java:641)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getLoaderNameForResource(ResourceManagerImpl.java:624)
+	at org.apache.velocity.runtime.RuntimeInstance.getLoaderNameForResource(RuntimeInstance.java:1464)
+	at org.apache.velocity.runtime.VelocimacroFactory.initVelocimacro(VelocimacroFactory.java:159)
+	at org.apache.velocity.runtime.RuntimeInstance.init(RuntimeInstance.java:261)
+	at org.apache.velocity.runtime.RuntimeInstance.init(RuntimeInstance.java:589)
+	at org.apache.velocity.runtime.RuntimeSingleton.init(RuntimeSingleton.java:229)
+	at org.apache.velocity.app.Velocity.init(Velocity.java:107)
+	at org.jeecgframework.p3.core.util.plugin.ViewVelocity.afterPropertiesSet(ViewVelocity.java:73)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1613)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1550)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:539)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:229)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:706)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5003)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5517)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1574)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1564)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-14 10:28:08,024 - Velocimacro : Default library not found.
+2018-12-14 10:28:08,024 - Velocimacro : allowInline = true : VMs can be defined inline in templates
+2018-12-14 10:28:08,024 - Velocimacro : allowInlineToOverride = false : VMs defined inline may NOT replace previous VM definitions
+2018-12-14 10:28:08,024 - Velocimacro : allowInlineLocal = false : VMs defined inline will be global in scope if allowed.
+2018-12-14 10:28:08,024 - Velocimacro : autoload off : VM system will not automatically reload global library macros
+2018-12-14 10:31:23,037 - Log4JLogChute initialized using file 'velocity.log'
+2018-12-14 10:31:23,037 - Starting Apache Velocity v1.6.4 (compiled: 2010-04-27 15:31:23)
+2018-12-14 10:31:23,037 - Default Properties File: org\apache\velocity\runtime\defaults\velocity.properties
+2018-12-14 10:31:23,037 - Trying to use logger class org.apache.velocity.runtime.log.Log4JLogChute
+2018-12-14 10:31:23,037 - Using logger class org.apache.velocity.runtime.log.Log4JLogChute
+2018-12-14 10:31:23,047 - ResourceLoader instantiated: org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2018-12-14 10:31:23,057 - ResourceCache: initialized (class org.apache.velocity.runtime.resource.ResourceCacheImpl) with class java.util.Collections$SynchronizedMap cache map.
+2018-12-14 10:31:23,057 - Loaded System Directive: org.apache.velocity.runtime.directive.Define
+2018-12-14 10:31:23,057 - Loaded System Directive: org.apache.velocity.runtime.directive.Break
+2018-12-14 10:31:23,057 - Loaded System Directive: org.apache.velocity.runtime.directive.Evaluate
+2018-12-14 10:31:23,067 - Loaded System Directive: org.apache.velocity.runtime.directive.Literal
+2018-12-14 10:31:23,067 - Loaded System Directive: org.apache.velocity.runtime.directive.Macro
+2018-12-14 10:31:23,067 - Loaded System Directive: org.apache.velocity.runtime.directive.Parse
+2018-12-14 10:31:23,067 - Loaded System Directive: org.apache.velocity.runtime.directive.Include
+2018-12-14 10:31:23,067 - Loaded System Directive: org.apache.velocity.runtime.directive.Foreach
+2018-12-14 10:31:23,067 - Loaded User Directive: org.jeecgframework.p3.core.directive.AuthFilterTagDirective
+2018-12-14 10:31:23,067 - Loaded User Directive: org.jeecgframework.p3.core.directive.AuthOperateTagDirective
+2018-12-14 10:31:23,067 - Loaded User Directive: com.jeecg.core.biz.tag.select.dict.tag.SelectDictTag
+2018-12-14 10:31:23,067 - Loaded User Directive: com.jeecg.core.biz.tag.select.table.tag.SelectTableTag
+2018-12-14 10:31:23,077 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,097 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,097 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,097 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,097 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,097 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,097 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,097 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,097 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,097 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,097 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,097 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,097 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,097 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,097 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,097 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,097 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,097 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,097 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,097 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,097 - Created '20' parsers.
+2018-12-14 10:31:23,107 - Velocimacro : "velocimacro.library" is not set.  Trying default library: VM_global_library.vm
+2018-12-14 10:31:23,107 - Velocity was not initialized! Calling init()...
+2018-12-14 10:31:23,107 - Could not load resource 'VM_global_library.vm' from ResourceLoader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader: 
+org.apache.velocity.exception.ResourceNotFoundException: ClasspathResourceLoader Error: cannot find resource VM_global_library.vm
+	at org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader.getResourceStream(ClasspathResourceLoader.java:131)
+	at org.apache.velocity.runtime.resource.loader.ResourceLoader.resourceExists(ResourceLoader.java:224)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getLoaderForResource(ResourceManagerImpl.java:641)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getLoaderNameForResource(ResourceManagerImpl.java:624)
+	at org.apache.velocity.runtime.RuntimeInstance.getLoaderNameForResource(RuntimeInstance.java:1464)
+	at org.apache.velocity.runtime.VelocimacroFactory.initVelocimacro(VelocimacroFactory.java:159)
+	at org.apache.velocity.runtime.RuntimeInstance.init(RuntimeInstance.java:261)
+	at org.apache.velocity.runtime.RuntimeInstance.init(RuntimeInstance.java:589)
+	at org.apache.velocity.runtime.RuntimeSingleton.init(RuntimeSingleton.java:229)
+	at org.apache.velocity.app.Velocity.init(Velocity.java:107)
+	at org.jeecgframework.p3.core.util.plugin.ViewVelocity.afterPropertiesSet(ViewVelocity.java:73)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1613)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1550)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:539)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:229)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:706)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5003)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5517)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1574)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1564)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-14 10:31:23,127 - Velocimacro : Default library not found.
+2018-12-14 10:31:23,127 - Velocimacro : allowInline = true : VMs can be defined inline in templates
+2018-12-14 10:31:23,127 - Velocimacro : allowInlineToOverride = false : VMs defined inline may NOT replace previous VM definitions
+2018-12-14 10:31:23,127 - Velocimacro : allowInlineLocal = false : VMs defined inline will be global in scope if allowed.
+2018-12-14 10:31:23,127 - Velocimacro : autoload off : VM system will not automatically reload global library macros
+2018-12-14 10:37:35,655 - Log4JLogChute initialized using file 'velocity.log'
+2018-12-14 10:37:35,655 - Starting Apache Velocity v1.6.4 (compiled: 2010-04-27 15:31:23)
+2018-12-14 10:37:35,655 - Default Properties File: org\apache\velocity\runtime\defaults\velocity.properties
+2018-12-14 10:37:35,655 - Trying to use logger class org.apache.velocity.runtime.log.Log4JLogChute
+2018-12-14 10:37:35,655 - Using logger class org.apache.velocity.runtime.log.Log4JLogChute
+2018-12-14 10:37:35,655 - ResourceLoader instantiated: org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2018-12-14 10:37:35,675 - ResourceCache: initialized (class org.apache.velocity.runtime.resource.ResourceCacheImpl) with class java.util.Collections$SynchronizedMap cache map.
+2018-12-14 10:37:35,675 - Loaded System Directive: org.apache.velocity.runtime.directive.Define
+2018-12-14 10:37:35,675 - Loaded System Directive: org.apache.velocity.runtime.directive.Break
+2018-12-14 10:37:35,675 - Loaded System Directive: org.apache.velocity.runtime.directive.Evaluate
+2018-12-14 10:37:35,675 - Loaded System Directive: org.apache.velocity.runtime.directive.Literal
+2018-12-14 10:37:35,675 - Loaded System Directive: org.apache.velocity.runtime.directive.Macro
+2018-12-14 10:37:35,685 - Loaded System Directive: org.apache.velocity.runtime.directive.Parse
+2018-12-14 10:37:35,685 - Loaded System Directive: org.apache.velocity.runtime.directive.Include
+2018-12-14 10:37:35,685 - Loaded System Directive: org.apache.velocity.runtime.directive.Foreach
+2018-12-14 10:37:35,685 - Loaded User Directive: org.jeecgframework.p3.core.directive.AuthFilterTagDirective
+2018-12-14 10:37:35,685 - Loaded User Directive: org.jeecgframework.p3.core.directive.AuthOperateTagDirective
+2018-12-14 10:37:35,685 - Loaded User Directive: com.jeecg.core.biz.tag.select.dict.tag.SelectDictTag
+2018-12-14 10:37:35,685 - Loaded User Directive: com.jeecg.core.biz.tag.select.table.tag.SelectTableTag
+2018-12-14 10:37:35,685 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,705 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,705 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,705 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,705 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,705 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,715 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,715 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,715 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,715 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,715 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,715 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,715 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,715 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,715 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,715 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,715 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,715 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,715 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,715 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,715 - Created '20' parsers.
+2018-12-14 10:37:35,715 - Velocimacro : "velocimacro.library" is not set.  Trying default library: VM_global_library.vm
+2018-12-14 10:37:35,715 - Velocity was not initialized! Calling init()...
+2018-12-14 10:37:35,715 - Could not load resource 'VM_global_library.vm' from ResourceLoader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader: 
+org.apache.velocity.exception.ResourceNotFoundException: ClasspathResourceLoader Error: cannot find resource VM_global_library.vm
+	at org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader.getResourceStream(ClasspathResourceLoader.java:131)
+	at org.apache.velocity.runtime.resource.loader.ResourceLoader.resourceExists(ResourceLoader.java:224)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getLoaderForResource(ResourceManagerImpl.java:641)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getLoaderNameForResource(ResourceManagerImpl.java:624)
+	at org.apache.velocity.runtime.RuntimeInstance.getLoaderNameForResource(RuntimeInstance.java:1464)
+	at org.apache.velocity.runtime.VelocimacroFactory.initVelocimacro(VelocimacroFactory.java:159)
+	at org.apache.velocity.runtime.RuntimeInstance.init(RuntimeInstance.java:261)
+	at org.apache.velocity.runtime.RuntimeInstance.init(RuntimeInstance.java:589)
+	at org.apache.velocity.runtime.RuntimeSingleton.init(RuntimeSingleton.java:229)
+	at org.apache.velocity.app.Velocity.init(Velocity.java:107)
+	at org.jeecgframework.p3.core.util.plugin.ViewVelocity.afterPropertiesSet(ViewVelocity.java:73)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1613)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1550)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:539)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:229)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:706)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5003)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5517)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1574)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1564)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-14 10:37:35,735 - Velocimacro : Default library not found.
+2018-12-14 10:37:35,735 - Velocimacro : allowInline = true : VMs can be defined inline in templates
+2018-12-14 10:37:35,735 - Velocimacro : allowInlineToOverride = false : VMs defined inline may NOT replace previous VM definitions
+2018-12-14 10:37:35,735 - Velocimacro : allowInlineLocal = false : VMs defined inline will be global in scope if allowed.
+2018-12-14 10:37:35,735 - Velocimacro : autoload off : VM system will not automatically reload global library macros

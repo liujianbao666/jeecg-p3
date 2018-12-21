@@ -1,0 +1,542 @@
+[INFO][2018-11-21 13:26:30,795][org.jeecgframework.p3.cg.factory.CodeGenerateFactory]----------------------------代码生成完毕---------------------------
+[INFO][2018-11-21 13:26:31,052][org.jeecgframework.p3.cg.factory.CodeGenerateFactory]----------------------------代码生成完毕---------------------------
+[INFO][2018-11-21 13:26:31,301][org.jeecgframework.p3.cg.factory.CodeGenerateFactory]----------------------------代码生成完毕---------------------------
+[INFO][2018-11-21 13:26:31,586][org.jeecgframework.p3.cg.factory.CodeGenerateFactory]----------------------------代码生成完毕---------------------------
+[INFO][2018-11-21 13:30:54,394][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 13:30:54,395][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 13:30:54,395][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 13:30:54,396][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-21 13:30:54,817][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 13:30:54,924][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN][2018-11-21 13:31:25,295][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/hello.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 13:31:36,496][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/hello.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-21 13:33:56,174][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[WARN][2018-11-21 13:33:56,452][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/images/favicon.ico] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 13:34:00,651][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/p3/wxActInvite.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-21 13:34:04,902][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[WARN][2018-11-21 13:34:12,380][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/p3/wxActInvite.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-21 13:34:25,854][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[INFO][2018-11-21 13:36:42,839][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 13:36:42,841][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 13:36:42,841][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 13:36:42,841][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[INFO][2018-11-21 13:37:01,199][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 13:37:01,201][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 13:37:01,202][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 13:37:01,202][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-21 13:37:01,703][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 13:37:01,815][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-21 13:37:11,449][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[INFO][2018-11-21 13:40:08,781][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 13:40:08,783][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 13:40:08,783][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 13:40:08,784][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-21 13:40:09,290][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 13:40:09,419][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN][2018-11-21 13:40:39,605][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/yxcd/evCg.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-21 14:28:21,778][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 14:28:21,779][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 14:28:21,779][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 14:28:21,779][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-21 14:28:22,261][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 14:28:22,445][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-21 14:29:46,974][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[WARN][2018-11-21 14:29:51,094][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/p3/wxActInvite.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 14:30:14,618][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/yxcd/evCg.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-21 14:31:03,870][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[WARN][2018-11-21 14:31:05,774][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/p3/wxActInvite.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 14:33:55,930][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web//yxcd/evCg.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 14:34:17,602][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web//yxcd/evCg/list.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 14:34:21,279][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web//yxcd/evCg/list.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 14:34:22,191][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web//yxcd/evCg/list.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 14:34:26,080][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/yxcd/evCg/list.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 14:36:37,400][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/yxcd/evCg.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 14:36:55,713][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/yxcd/evCg.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 14:36:58,444][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/yxcd/evCg.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-21 14:42:12,405][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 14:42:12,407][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 14:42:12,407][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 14:42:12,407][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-21 14:42:12,861][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 14:42:12,980][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN][2018-11-21 14:44:29,122][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/hello.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-21 14:44:37,012][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[WARN][2018-11-21 14:44:39,506][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/yxcd/evCg.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 14:48:33,912][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/yxcd/evCgRun.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 14:49:19,429][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/yxcd/evCgRun.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 14:49:38,998][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/yxcd/evCgRun.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-21 14:54:10,995][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 14:54:10,996][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 14:54:10,996][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 14:54:10,997][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-21 14:54:11,424][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 14:54:11,551][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-21 14:54:18,579][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[WARN][2018-11-21 14:54:21,856][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/yxcd/evCg.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-21 14:55:59,288][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 14:55:59,289][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 14:55:59,289][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 14:55:59,289][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-21 14:55:59,820][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 14:55:59,944][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-21 14:57:16,643][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[WARN][2018-11-21 14:57:27,515][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/yxcd/evCgRun.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 14:57:56,610][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/yxcd/evCgRun.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 14:57:59,759][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/yxcd/evCg.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 14:58:32,011][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/yxcd/evCgRun.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-21 14:58:34,019][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[INFO][2018-11-21 14:58:35,864][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[INFO][2018-11-21 15:00:47,637][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 15:00:47,638][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 15:00:47,638][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 15:00:47,638][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-21 15:00:48,105][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 15:00:48,213][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-21 15:00:55,444][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[WARN][2018-11-21 15:00:57,462][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/evCg.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 15:01:30,049][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/evCg.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-21 15:06:05,967][org.jeecgframework.p3.cg.factory.CodeGenerateFactory]----------------------------代码生成完毕---------------------------
+[INFO][2018-11-21 15:10:44,939][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 15:10:44,940][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 15:10:44,940][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 15:10:44,940][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-21 15:10:45,362][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 15:10:45,472][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN][2018-11-21 15:11:09,228][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/evCg.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-21 15:11:16,457][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[WARN][2018-11-21 15:11:19,355][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/evOd.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-21 15:29:32,209][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 15:29:32,211][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 15:29:32,212][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 15:29:32,212][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-21 15:29:32,784][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 15:29:32,961][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN][2018-11-21 15:29:45,016][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/evCg.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-21 15:29:49,548][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[WARN][2018-11-21 15:29:52,983][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/evCg.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 15:30:17,075][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/evCg.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-21 15:33:35,331][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 15:33:35,334][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 15:33:35,335][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 15:33:35,335][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-21 15:33:36,724][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 15:33:37,051][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-21 15:33:55,982][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[WARN][2018-11-21 15:33:58,052][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/evOd.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 15:34:01,735][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/evCg.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-21 16:03:51,374][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 16:03:51,387][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 16:03:51,388][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 16:03:51,388][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-21 16:03:54,864][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 16:03:56,186][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN][2018-11-21 16:04:10,896][org.springframework.web.context.support.XmlWebApplicationContext]Exception encountered during context initialization - cancelling refresh attempt
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'evOdController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.kedong.personalstake.yxcd.service.EvOdService com.kedong.personalstake.yxcd.web.EvOdController.evOdService; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.kedong.personalstake.yxcd.service.EvOdService] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:301)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1186)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:229)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:706)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:658)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:624)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:672)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:543)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:484)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:136)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:160)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1280)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1193)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1088)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5176)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5460)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.kedong.personalstake.yxcd.service.EvOdService com.kedong.personalstake.yxcd.web.EvOdController.evOdService; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.kedong.personalstake.yxcd.service.EvOdService] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:522)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:298)
+	... 29 more
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.kedong.personalstake.yxcd.service.EvOdService] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoSuchBeanDefinitionException(DefaultListableBeanFactory.java:1118)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:967)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:862)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:494)
+	... 31 more
+[ERROR][2018-11-21 16:04:11,004][org.springframework.web.servlet.DispatcherServlet]Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'evOdController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.kedong.personalstake.yxcd.service.EvOdService com.kedong.personalstake.yxcd.web.EvOdController.evOdService; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.kedong.personalstake.yxcd.service.EvOdService] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:301)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1186)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:229)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:706)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:658)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:624)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:672)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:543)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:484)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:136)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:160)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1280)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1193)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1088)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5176)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5460)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.kedong.personalstake.yxcd.service.EvOdService com.kedong.personalstake.yxcd.web.EvOdController.evOdService; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.kedong.personalstake.yxcd.service.EvOdService] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:522)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:298)
+	... 29 more
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.kedong.personalstake.yxcd.service.EvOdService] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoSuchBeanDefinitionException(DefaultListableBeanFactory.java:1118)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:967)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:862)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:494)
+	... 31 more
+[WARN][2018-11-21 16:06:56,715][org.springframework.web.context.support.XmlWebApplicationContext]Exception encountered during context initialization - cancelling refresh attempt
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'evOdController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.kedong.personalstake.yxcd.service.EvOdService com.kedong.personalstake.yxcd.web.EvOdController.evOdService; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.kedong.personalstake.yxcd.service.EvOdService] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:301)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1186)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:229)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:706)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:658)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:624)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:672)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:543)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:484)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:136)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:160)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1280)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1193)
+	at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:865)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:136)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:953)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:603)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.kedong.personalstake.yxcd.service.EvOdService com.kedong.personalstake.yxcd.web.EvOdController.evOdService; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.kedong.personalstake.yxcd.service.EvOdService] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:522)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:298)
+	... 34 more
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.kedong.personalstake.yxcd.service.EvOdService] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoSuchBeanDefinitionException(DefaultListableBeanFactory.java:1118)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:967)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:862)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:494)
+	... 36 more
+[ERROR][2018-11-21 16:06:56,720][org.springframework.web.servlet.DispatcherServlet]Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'evOdController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.kedong.personalstake.yxcd.service.EvOdService com.kedong.personalstake.yxcd.web.EvOdController.evOdService; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.kedong.personalstake.yxcd.service.EvOdService] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:301)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1186)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:229)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:706)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:658)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:624)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:672)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:543)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:484)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:136)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:160)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1280)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1193)
+	at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:865)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:136)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:953)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:603)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.kedong.personalstake.yxcd.service.EvOdService com.kedong.personalstake.yxcd.web.EvOdController.evOdService; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.kedong.personalstake.yxcd.service.EvOdService] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:522)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:298)
+	... 34 more
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.kedong.personalstake.yxcd.service.EvOdService] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoSuchBeanDefinitionException(DefaultListableBeanFactory.java:1118)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:967)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:862)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:494)
+	... 36 more
+[INFO][2018-11-21 16:08:49,853][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 16:08:49,857][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 16:08:49,857][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 16:08:49,857][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-21 16:08:51,041][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 16:08:51,807][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN][2018-11-21 16:08:55,131][org.springframework.web.context.support.XmlWebApplicationContext]Exception encountered during context initialization - cancelling refresh attempt
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'evOdController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.kedong.personalstake.yxcd.service.EvOdService com.kedong.personalstake.yxcd.web.EvOdController.evOdService; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.kedong.personalstake.yxcd.service.EvOdService] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:301)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1186)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:229)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:706)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:658)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:624)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:672)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:543)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:484)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:136)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:160)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1280)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1193)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1088)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5176)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5460)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.kedong.personalstake.yxcd.service.EvOdService com.kedong.personalstake.yxcd.web.EvOdController.evOdService; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.kedong.personalstake.yxcd.service.EvOdService] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:522)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:298)
+	... 29 more
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.kedong.personalstake.yxcd.service.EvOdService] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoSuchBeanDefinitionException(DefaultListableBeanFactory.java:1118)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:967)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:862)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:494)
+	... 31 more
+[ERROR][2018-11-21 16:08:55,211][org.springframework.web.servlet.DispatcherServlet]Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'evOdController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.kedong.personalstake.yxcd.service.EvOdService com.kedong.personalstake.yxcd.web.EvOdController.evOdService; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.kedong.personalstake.yxcd.service.EvOdService] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:301)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1186)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:229)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:706)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:658)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:624)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:672)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:543)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:484)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:136)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:160)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1280)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1193)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1088)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5176)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5460)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.kedong.personalstake.yxcd.service.EvOdService com.kedong.personalstake.yxcd.web.EvOdController.evOdService; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.kedong.personalstake.yxcd.service.EvOdService] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:522)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:298)
+	... 29 more
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.kedong.personalstake.yxcd.service.EvOdService] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoSuchBeanDefinitionException(DefaultListableBeanFactory.java:1118)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:967)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:862)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:494)
+	... 31 more
+[INFO][2018-11-21 16:19:24,084][org.jeecgframework.p3.cg.factory.CodeGenerateFactory]----------------------------代码生成完毕---------------------------
+[INFO][2018-11-21 16:26:34,575][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 16:26:34,577][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 16:26:34,577][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 16:26:34,577][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[INFO][2018-11-21 16:26:34,578][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.EvOdDao }
+[ERROR][2018-11-21 16:26:35,132][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 16:26:35,265][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-21 16:27:32,732][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[WARN][2018-11-21 16:27:33,043][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web//personalstake/images/favicon.ico] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-21 16:27:34,732][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/p3/wxActInvite.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-21 16:27:56,332][com.jeecg.personalstake.yxcd.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 16:36:26,858][org.jeecgframework.p3.cg.factory.CodeGenerateFactory]----------------------------代码生成完毕---------------------------
+[INFO][2018-11-21 16:38:29,482][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 16:38:29,487][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 16:38:29,487][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 16:38:29,487][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[INFO][2018-11-21 16:38:29,488][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.EvOdDao }
+[INFO][2018-11-21 16:38:29,488][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.TSLogDao }
+[ERROR][2018-11-21 16:38:29,987][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 16:38:30,093][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-21 16:38:51,124][com.jeecg.personalstake.yxcd.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 16:39:44,762][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[INFO][2018-11-21 16:39:46,822][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 16:40:04,343][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 16:40:16,299][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 16:40:22,287][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 17:16:40,032][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 17:16:40,036][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 17:16:40,036][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 17:16:40,037][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[INFO][2018-11-21 17:16:40,037][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.EvOdDao }
+[INFO][2018-11-21 17:16:40,037][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.TSLogDao }
+[ERROR][2018-11-21 17:16:40,493][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 17:16:40,611][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-21 17:18:15,352][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[INFO][2018-11-21 17:18:19,023][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 17:18:31,175][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 17:18:38,656][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 17:18:51,135][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 17:18:56,315][com.jeecg.personalstake.yxcd.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 17:19:23,690][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[INFO][2018-11-21 17:19:40,033][com.jeecg.personalstake.yxcd.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 17:41:09,512][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[WARN][2018-11-21 17:41:10,010][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/images/favicon.ico] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-21 17:51:05,742][com.jeecg.personalstake.yxcd.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 17:51:13,126][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 17:53:12,378][com.jeecg.personalstake.yxcd.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 17:53:52,570][com.jeecg.personalstake.yxcd.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 17:54:00,585][com.jeecg.personalstake.yxcd.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 17:57:44,939][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 18:39:24,867][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 18:39:24,869][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 18:39:24,869][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 18:39:24,871][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[INFO][2018-11-21 18:39:24,872][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.EvOdDao }
+[INFO][2018-11-21 18:39:24,872][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.TSLogDao }
+[ERROR][2018-11-21 18:39:25,210][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 18:39:25,295][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-21 18:53:35,008][org.jeecgframework.p3.cg.factory.CodeGenerateFactory]----------------------------代码生成完毕---------------------------
+[INFO][2018-11-21 18:55:19,327][org.jeecgframework.p3.cg.factory.CodeGenerateFactory]----------------------------代码生成完毕---------------------------
+[INFO][2018-11-21 19:05:09,056][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 19:05:09,063][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 19:05:09,064][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 19:05:09,065][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[INFO][2018-11-21 19:05:09,065][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.EvOdDao }
+[INFO][2018-11-21 19:05:09,066][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.TSLogDao }
+[ERROR][2018-11-21 19:05:11,119][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 19:05:11,804][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-21 19:05:28,711][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[INFO][2018-11-21 19:05:36,073][com.jeecg.personalstake.yxcd.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 19:05:39,790][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 19:06:28,413][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 19:50:11,846][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 19:50:11,851][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 19:50:11,851][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 19:50:11,852][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[INFO][2018-11-21 19:50:11,852][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.EvOdDao }
+[INFO][2018-11-21 19:50:11,853][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.TSLogDao }
+[ERROR][2018-11-21 19:50:13,691][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 19:50:14,189][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-21 19:51:03,496][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[INFO][2018-11-21 19:51:08,665][com.jeecg.personalstake.yxcd.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 19:51:41,710][com.jeecg.personalstake.yxcd.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 19:52:02,906][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[INFO][2018-11-21 19:52:05,720][com.jeecg.personalstake.yxcd.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 19:52:13,349][com.jeecg.personalstake.yxcd.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 19:52:15,184][com.jeecg.personalstake.yxcd.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 19:52:55,122][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 19:53:09,742][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[INFO][2018-11-21 19:53:11,488][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 19:53:42,695][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 19:58:30,666][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 19:58:30,672][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 19:58:30,672][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 19:58:30,672][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[INFO][2018-11-21 19:58:30,674][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.EvDemandDao }
+[INFO][2018-11-21 19:58:30,675][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.EvOdDao }
+[INFO][2018-11-21 19:58:30,675][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.TSLogDao }
+[ERROR][2018-11-21 19:58:32,352][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 19:58:32,795][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-21 19:58:48,192][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[INFO][2018-11-21 19:58:51,156][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 19:59:58,938][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 20:00:25,349][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 20:09:38,349][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 20:09:38,353][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 20:09:38,353][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 20:09:38,353][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[INFO][2018-11-21 20:09:38,354][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.EvDemandDao }
+[INFO][2018-11-21 20:09:38,354][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.EvOdDao }
+[INFO][2018-11-21 20:09:38,354][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.TSLogDao }
+[ERROR][2018-11-21 20:09:40,077][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 20:09:40,546][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-21 20:12:04,079][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 20:12:04,084][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 20:12:04,085][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 20:12:04,086][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[INFO][2018-11-21 20:12:04,087][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.EvDemandDao }
+[INFO][2018-11-21 20:12:04,087][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.EvOdDao }
+[INFO][2018-11-21 20:12:04,088][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.TSLogDao }
+[ERROR][2018-11-21 20:12:07,598][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 20:12:08,243][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-21 20:40:35,499][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.EvDemandDao }
+[INFO][2018-11-21 20:40:35,506][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.EvOdDao }
+[INFO][2018-11-21 20:40:35,507][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.yxcd.dao.TSLogDao }
+[INFO][2018-11-21 20:40:35,508][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-21 20:40:35,508][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-21 20:40:35,509][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-21 20:40:35,509][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-21 20:40:37,940][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-21 20:40:39,572][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-21 20:40:58,890][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 20:41:26,236][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 20:42:18,815][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-21 20:42:37,379][com.jeecg.personalstake.yxcd.web.TSLogController][0:0:0:0:0:0:0:1]  back list

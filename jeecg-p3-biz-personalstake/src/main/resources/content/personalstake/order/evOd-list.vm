@@ -1,0 +1,322 @@
+#parse("content/base/back/common/macro.vm")
+<!DOCTYPE html>
+<html lang="en">
+#parse("content/base/back/common/head.vm")
+<body style='overflow:scroll;overflow-x:hidden'>
+	<div class="container bs-docs-container" style="width:100%;">
+		<div class="row">
+			<form role="form" class="form-inline" action="$!{basePath}/yxcd/evOd.do?list" method="post"  id="formSubmit">
+				<div  class="col-md-10" style="width:100%">
+					<div class="panel panel-default">
+						<div class="panel-heading">列表</div>
+						<div class="panel-body">
+							<div class="search">
+										 <div class="form-group col-sm-3">
+											<label for="odId" class="control-label col-sm-3 line34">订单ID</label>
+											<div class="col-sm-8">
+												<input type="text" name="odId" id="odId" value="$!{evOd.odId}" class="form-control">
+											</div>
+										 </div>
+										 <div class="form-group col-sm-3">
+											<label for="tradeFlowNo" class="control-label col-sm-3 line34">订单流水号（桩控桩生成，表控自动生成）</label>
+											<div class="col-sm-8">
+												<input type="text" name="tradeFlowNo" id="tradeFlowNo" value="$!{evOd.tradeFlowNo}" class="form-control">
+											</div>
+										 </div>
+										 <div class="form-group col-sm-3">
+											<label for="orgNo" class="control-label col-sm-3 line34">组织单位编码</label>
+											<div class="col-sm-8">
+												<input type="text" name="orgNo" id="orgNo" value="$!{evOd.orgNo}" class="form-control">
+											</div>
+										 </div>
+										 <div class="form-group col-sm-3">
+											<label for="stakeno" class="control-label col-sm-3 line34">充电桩编号</label>
+											<div class="col-sm-8">
+												<input type="text" name="stakeno" id="stakeno" value="$!{evOd.stakeno}" class="form-control">
+											</div>
+										 </div>
+										 <div class="form-group col-sm-3">
+											<label for="chargeport" class="control-label col-sm-3 line34">充电接口标识（枪号）</label>
+											<div class="col-sm-8">
+												<input type="text" name="chargeport" id="chargeport" value="$!{evOd.chargeport}" class="form-control">
+											</div>
+										 </div>
+										 <div class="form-group col-sm-3">
+											<label for="acId" class="control-label col-sm-3 line34">AC_ID</label>
+											<div class="col-sm-8">
+												<input type="text" name="acId" id="acId" value="$!{evOd.acId}" class="form-control">
+											</div>
+										 </div>
+										 <div class="form-group col-sm-3">
+											<label for="vhId" class="control-label col-sm-3 line34">VH_ID</label>
+											<div class="col-sm-8">
+												<input type="text" name="vhId" id="vhId" value="$!{evOd.vhId}" class="form-control">
+											</div>
+										 </div>
+										 <div class="form-group col-sm-3">
+											<label for="usertype" class="control-label col-sm-3 line34">充电用户类型（1：分享(普通用户）；2：有序(桩主））</label>
+											<div class="col-sm-8">
+												<input type="text" name="usertype" id="usertype" value="$!{evOd.usertype}" class="form-control">
+											</div>
+										 </div>
+										 <div class="form-group col-sm-3">
+											<label for="odModel" class="control-label col-sm-3 line34">充电分类（1正常充电、2有序充电）</label>
+											<div class="col-sm-8">
+												<input type="text" name="odModel" id="odModel" value="$!{evOd.odModel}" class="form-control">
+											</div>
+										 </div>
+										<div class="form-group col-sm-3">
+											<label for="vuseTime" class="control-label col-sm-3 line34">用车时间</label>
+											<div class="col-sm-8">
+												<input type="text" name="vuseTime" id="vuseTime" value="$!dateTool.format('yyyy-MM-dd',$!{evOd.vuseTime})" class="form-control">
+											</div>
+										 </div>
+										 <div class="form-group col-sm-3">
+											<label for="chargingDemand" class="control-label col-sm-3 line34">充电需求电量</label>
+											<div class="col-sm-8">
+												<input type="text" name="chargingDemand" id="chargingDemand" value="$!{evOd.chargingDemand}" class="form-control">
+											</div>
+										 </div>
+										 <div class="form-group col-sm-3">
+											<label for="odStatus" class="control-label col-sm-3 line34">订单状态（1待执行为默认、2正在执行、3降低执行、4暂停、5执行完成、6系统终止、7用户结束、8台区容量不足）</label>
+											<div class="col-sm-8">
+												<input type="text" name="odStatus" id="odStatus" value="$!{evOd.odStatus}" class="form-control">
+											</div>
+										 </div>
+										<div class="form-group col-sm-3">
+											<label for="startTime" class="control-label col-sm-3 line34">充电开始时间</label>
+											<div class="col-sm-8">
+												<input type="text" name="startTime" id="startTime" value="$!dateTool.format('yyyy-MM-dd',$!{evOd.startTime})" class="form-control">
+											</div>
+										 </div>
+										<div class="form-group col-sm-3">
+											<label for="endTime" class="control-label col-sm-3 line34">充电结束时间</label>
+											<div class="col-sm-8">
+												<input type="text" name="endTime" id="endTime" value="$!dateTool.format('yyyy-MM-dd',$!{evOd.endTime})" class="form-control">
+											</div>
+										 </div>
+										 <div class="form-group col-sm-3">
+											<label for="startValue" class="control-label col-sm-3 line34">启动电能示值</label>
+											<div class="col-sm-8">
+												<input type="text" name="startValue" id="startValue" value="$!{evOd.startValue}" class="form-control">
+											</div>
+										 </div>
+										 <div class="form-group col-sm-3">
+											<label for="stopValue" class="control-label col-sm-3 line34">结束电能示值</label>
+											<div class="col-sm-8">
+												<input type="text" name="stopValue" id="stopValue" value="$!{evOd.stopValue}" class="form-control">
+											</div>
+										 </div>
+										 <div class="form-group col-sm-3">
+											<label for="totalchargeamount" class="control-label col-sm-3 line34">已充电量总</label>
+											<div class="col-sm-8">
+												<input type="text" name="totalchargeamount" id="totalchargeamount" value="$!{evOd.totalchargeamount}" class="form-control">
+											</div>
+										 </div>
+										 <div class="form-group col-sm-3">
+											<label for="vallychargeamount" class="control-label col-sm-3 line34">已充电量-谷</label>
+											<div class="col-sm-8">
+												<input type="text" name="vallychargeamount" id="vallychargeamount" value="$!{evOd.vallychargeamount}" class="form-control">
+											</div>
+										 </div>
+										 <div class="form-group col-sm-3">
+											<label for="peakchargeamount" class="control-label col-sm-3 line34">已充电量-尖</label>
+											<div class="col-sm-8">
+												<input type="text" name="peakchargeamount" id="peakchargeamount" value="$!{evOd.peakchargeamount}" class="form-control">
+											</div>
+										 </div>
+										 <div class="form-group col-sm-3">
+											<label for="peacechargeamount" class="control-label col-sm-3 line34">已充电量-峰</label>
+											<div class="col-sm-8">
+												<input type="text" name="peacechargeamount" id="peacechargeamount" value="$!{evOd.peacechargeamount}" class="form-control">
+											</div>
+										 </div>
+										 <div class="form-group col-sm-3">
+											<label for="spotchargeamount" class="control-label col-sm-3 line34">已充电量-平</label>
+											<div class="col-sm-8">
+												<input type="text" name="spotchargeamount" id="spotchargeamount" value="$!{evOd.spotchargeamount}" class="form-control">
+											</div>
+										 </div>
+										<div class="form-group col-sm-3">
+											<label for="createTime" class="control-label col-sm-3 line34">创建时间</label>
+											<div class="col-sm-8">
+												<input type="text" name="createTime" id="createTime" value="$!dateTool.format('yyyy-MM-dd',$!{evOd.createTime})" class="form-control">
+											</div>
+										 </div>
+										<div class="form-group col-sm-3">
+											<label for="updateTime" class="control-label col-sm-3 line34">更新时间</label>
+											<div class="col-sm-8">
+												<input type="text" name="updateTime" id="updateTime" value="$!dateTool.format('yyyy-MM-dd',$!{evOd.updateTime})" class="form-control">
+											</div>
+										 </div>
+										 <div class="form-group col-sm-3">
+											<label for="bluetoothorder" class="control-label col-sm-3 line34">蓝牙标志：1:蓝牙订单，0：非蓝牙订单</label>
+											<div class="col-sm-8">
+												<input type="text" name="bluetoothorder" id="bluetoothorder" value="$!{evOd.bluetoothorder}" class="form-control">
+											</div>
+										 </div>
+								<button type="submit" class="btn btn-primary"><i class="fa fa-search"></i> 搜  索</button>
+								<button type="button" class="btn btn-primary" onclick="searchReset()"><i class="fa fa-refresh"></i> 重  置</button>
+								<div class="clearfix"></div>
+							</div>
+							<div id="legend">
+								<legend  class="le">
+									<button type="button" class="btn btn-primary" onclick="doUrl('$!{basePath}/yxcd/evOd.do?toAdd')" ><i class="fa fa-plus"></i> 新增</button> 
+									<button type="button" class="btn btn-primary" onclick="batchDelete()" ><i class="fa fa-trash-o"></i> 批量删除</button>
+								</legend>
+							</div>
+							<table class="table table-striped">
+								<thead>
+									<th>
+											<input type="checkbox" name="ckAll" id="ckAll" />
+					        		</th>
+											<th>订单ID</th>
+											<th>订单流水号（桩控桩生成，表控自动生成）</th>
+											<th>组织单位编码</th>
+											<th>充电桩编号</th>
+											<th>充电接口标识（枪号）</th>
+											<th>AC_ID</th>
+											<th>VH_ID</th>
+											<th>充电用户类型（1：分享(普通用户）；2：有序(桩主））</th>
+											<th>充电分类（1正常充电、2有序充电）</th>
+											<th>用车时间</th>
+											<th>充电需求电量</th>
+											<th>订单状态（1待执行为默认、2正在执行、3降低执行、4暂停、5执行完成、6系统终止、7用户结束、8台区容量不足）</th>
+											<th>充电开始时间</th>
+											<th>充电结束时间</th>
+											<th>启动电能示值</th>
+											<th>结束电能示值</th>
+											<th>已充电量总</th>
+											<th>已充电量-谷</th>
+											<th>已充电量-尖</th>
+											<th>已充电量-峰</th>
+											<th>已充电量-平</th>
+											<th>创建时间</th>
+											<th>更新时间</th>
+											<th>蓝牙标志：1:蓝牙订单，0：非蓝牙订单</th>
+									<th>操作</th>
+								</thead>
+								<tbody>
+								#if($!{pageInfos})
+									#foreach($!{info} in $!{pageInfos})
+										<tr>	
+											<td>
+													<input type="checkbox" name="ck" id="ck_$!{velocityCount}" value="$!{info.id}"/>
+											</td>	
+														<td>$!{info.odId}</td>
+														<td>$!{info.tradeFlowNo}</td>
+														<td>$!{info.orgNo}</td>
+														<td>$!{info.stakeno}</td>
+														<td>$!{info.chargeport}</td>
+														<td>$!{info.acId}</td>
+														<td>$!{info.vhId}</td>
+														<td>$!{info.usertype}</td>
+														<td>$!{info.odModel}</td>
+														<td>$!dateTool.format("yyyy-MM-dd",$!{info.vuseTime})</td>
+														<td>$!{info.chargingDemand}</td>
+														<td>$!{info.odStatus}</td>
+														<td>$!dateTool.format("yyyy-MM-dd",$!{info.startTime})</td>
+														<td>$!dateTool.format("yyyy-MM-dd",$!{info.endTime})</td>
+														<td>$!{info.startValue}</td>
+														<td>$!{info.stopValue}</td>
+														<td>$!{info.totalchargeamount}</td>
+														<td>$!{info.vallychargeamount}</td>
+														<td>$!{info.peakchargeamount}</td>
+														<td>$!{info.peacechargeamount}</td>
+														<td>$!{info.spotchargeamount}</td>
+														<td>$!dateTool.format("yyyy-MM-dd",$!{info.createTime})</td>
+														<td>$!dateTool.format("yyyy-MM-dd",$!{info.updateTime})</td>
+														<td>$!{info.bluetoothorder}</td>
+											<td class="last">
+											<a class="btn btn-success btn-xs"  href="javascript:doUrl('$!{basePath}/yxcd/evOd.do?toEdit&id=$!{info.id}')" ><i class="fa fa-edit"></i> 编辑</a>
+											<a class="btn btn-danger btn-xs" href="javascript:delData('$!{basePath}/yxcd/evOd.do?doDelete&id=$!{info.id}')"><i class="fa fa-trash-o"></i> 删除</a>
+											</td>
+										</tr>
+									 #end
+								 #end
+								</tbody>
+							</table>
+							<div class="text-right">
+								<!--公用翻页代码-->
+								#set($attr='formSubmit')
+								#showPageList($pageInfos $attr)
+								<!--END公用翻页代码-->
+							</div>
+						</div>
+					</div>
+				</div>  
+			</form>
+		</div>
+	</div>
+</body>
+</html>
+<script>
+$("#ckAll").click(function(){ 
+	if($(this).prop("checked")){ 
+	 $(":checkbox").prop("checked",true) 
+	}else{ 
+	$(":checkbox").prop("checked",false)  
+	} 
+}); 
+
+//jquery获取复选框值    
+function getCkValue(){  
+  var chk_value =[];    
+  $('input[name="ck"]:checked').each(function(){    
+   chk_value.push($(this).val());    
+  });    
+  //alert(chk_value.length==0 ?'你还没有选择任何内容！':chk_value);    
+}
+//获得所有选中行的ID进行批量删除
+function batchDelete() {
+    var ids = [];
+    var check = document.getElementsByName("ck");
+    for(var i=0;i<check.length;i++){
+        if(check[i].checked){
+    		ids.push(check[i].value);
+        }
+    }
+   	if(ids.length > 0) {
+    	parent.layer.confirm('确认进行批量删除吗？', {
+        	btn: ['确定','取消'] //按钮
+    	}, function(){
+       		jQuery.ajax({
+       			url : '$!{basePath}/yxcd/evOd.do?batchDelete',
+       			data : {
+       				ids : ids,
+       			},
+       			type : 'POST',
+    			dataType: 'json',
+       			traditional:true,
+    			success:function(data) {
+    				if(data.success){
+    					parent.layer.alert(data.msg, {
+    	        	        icon: 1,
+    	        	        shadeClose: false,
+    	        	        title: '提示'
+    	        	    },function(index){
+    						document.getElementById('formSubmit').submit();
+    	        	    	parent.layer.close(index);
+    					});
+    				}else {
+    					layeralert(data.msg,0);
+    				}
+    			},
+    			error: function(data, status, e){  
+    	        	if(data.status == "401"){
+    	        		layeralert("没有权限！",0);
+    					return;
+    				}
+    	        }
+       		});
+		});
+   	}else {
+		layeralert("您还没有选择要删除的行");
+   	}
+}
+//重置按钮    
+function searchReset() {
+	$("#formSubmit").find(":input").val("");
+	$("#formSubmit").submit();
+}
+</script>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+#parse("content/personalstake/common/resource.vm")
+<script type="text/javascript" src="$!{basePath}/content/js/chargingPile/chargingcurvehistory.js"></script>
+<title>充电桩历史数据监视（功率电压电流曲线）</title>
+</head>
+<body>
+<div class="panel-body" style="padding-bottom:0px;">
+	 <div class="accordion-group">
+	  <div class="accordion-inner">
+	   <div class="panel panel-default" style="margin-bottom: 0px;margin-top: 0px;">
+		     <div class="panel-body">
+				<form id="searchForm" class="searchForm form-horizontal clearfix" style="margin-top:0.6cm;padding: 0px;">
+                    <div class="row">
+						<div class="col-md-4  form-group " >
+							<label class="col-md-5 control-label" for="orgName">桩编号</label>
+							<div class="col-md-7 no-padding">
+								<input type="text" class="form-control" id="cgId" placeholder="请输入充电桩编号" autocomplete="off" value="${cgId}"/>
+							</div>
+						</div>
+						<div class="col-md-3  form-group ">
+								<label for="date" class="col-md-5 control-label near-padding-right">开始时间</label>
+								<div class="col-md-7 no-padding">
+									 <input type="text" id="startDate" name="startDate" class="form-control" />
+								 </div>
+						 </div>
+                        <div class="col-md-3  form-group ">
+                            <label for="date" class="col-md-5 control-label near-padding-right">结束时间</label>
+                            <div class="col-md-7 no-padding">
+                                <input type="text" id="endDate" name="endDate" class="form-control" />
+                            </div>
+                        </div>
+						<div class="col-md-2 form-group">
+							 <button type="button" class="btn btn-primary" id="search-btn">
+									<span class="glyphicon glyphicon-search"></span>查询
+							 </button>
+							 <button type="button" class="btn btn-warning" id="reset-btn">
+									<span class="glyphicon glyphicon-repeat"></span>重置
+							 </button>
+						 </div>
+				  </div>
+			   </form>
+              </div>
+            </div>
+        </div>
+    </div>
+ 		<div id="charts" style="height:75%;margin-top:2%"></div>
+</div>
+</body>
+</html>

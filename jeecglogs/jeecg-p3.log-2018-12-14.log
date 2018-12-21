@@ -1,0 +1,39 @@
+[INFO][2018-12-14 10:44:39,196][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.chargepile.dao.EvCgDao }
+[INFO][2018-12-14 10:44:39,202][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.chargepile.dao.HisCgCurveDataDao }
+[INFO][2018-12-14 10:44:39,203][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.demand.dao.EvDemandDao }
+[INFO][2018-12-14 10:44:39,203][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.distributionArea.dao.EvTgDao }
+[INFO][2018-12-14 10:44:39,204][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.electricityPriceModel.dao.ElectricityPriceModelDao }
+[INFO][2018-12-14 10:44:39,206][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.order.dao.EvOdDao }
+[INFO][2018-12-14 10:44:39,206][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.org.dao.OrgDao }
+[INFO][2018-12-14 10:44:39,206][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.plan.dao.PlanDao }
+[INFO][2018-12-14 10:44:39,206][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.share.dao.ChargingShareDao }
+[INFO][2018-12-14 10:44:39,207][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-12-14 10:44:39,207][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-12-14 10:44:39,207][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-12-14 10:44:39,207][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-12-14 10:44:39,922][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-12-14 10:44:40,108][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN][2018-12-14 10:44:52,476][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/projects.html] in DispatcherServlet with name 'springmvc'
+[WARN][2018-12-14 10:44:56,359][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/] in DispatcherServlet with name 'springmvc'
+[WARN][2018-12-14 10:45:10,138][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/] in DispatcherServlet with name 'springmvc'
+[INFO][2018-12-14 10:45:16,906][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[WARN][2018-12-14 10:45:17,568][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/images/favicon.ico] in DispatcherServlet with name 'springmvc'
+[INFO][2018-12-14 10:45:48,265][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[WARN][2018-12-14 10:45:58,889][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/] in DispatcherServlet with name 'springmvc'
+[WARN][2018-12-14 10:46:23,352][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/] in DispatcherServlet with name 'springmvc'
+[INFO][2018-12-14 10:47:14,205][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.chargepile.dao.EvCgDao }
+[INFO][2018-12-14 10:47:14,208][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.chargepile.dao.HisCgCurveDataDao }
+[INFO][2018-12-14 10:47:14,208][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.demand.dao.EvDemandDao }
+[INFO][2018-12-14 10:47:14,209][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.distributionArea.dao.EvTgDao }
+[INFO][2018-12-14 10:47:14,210][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.electricityPriceModel.dao.ElectricityPriceModelDao }
+[INFO][2018-12-14 10:47:14,211][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.order.dao.EvOdDao }
+[INFO][2018-12-14 10:47:14,214][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.org.dao.OrgDao }
+[INFO][2018-12-14 10:47:14,214][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.plan.dao.PlanDao }
+[INFO][2018-12-14 10:47:14,214][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.share.dao.ChargingShareDao }
+[INFO][2018-12-14 10:47:14,214][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-12-14 10:47:14,214][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-12-14 10:47:14,214][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-12-14 10:47:14,215][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-12-14 10:47:15,235][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-12-14 10:47:15,478][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN][2018-12-14 10:47:31,259][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/favicon.ico] in DispatcherServlet with name 'springmvc'

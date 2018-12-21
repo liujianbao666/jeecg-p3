@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+#parse("content/personalstake/common/resource.vm")
+<script type="text/javascript" src="$!{basePath}/content/js/plan/historyPlan.js"></script>
+<title>充电计划-历史计划详情</title>
+</head>
+<body>
+<input type="hidden" id="TG_ID" value="$!{TG_ID}"/>
+<div class="panel-body" style="padding-bottom:0px;">
+    <!-- 搜索 -->
+    <div class="accordion-group">
+        <div id="collapse_search" class="accordion-body collapse">
+            <div class="accordion-inner">
+                <div class="panel panel-default" style="margin-bottom: 0px;">
+                    <div class="panel-body">
+                        <form id="searchForm" class="searchForm form-horizontal clearfix" method="post">
+                                <div class="row">
+                                    <div class="col-xs-4 form-group no-padding">
+                                        <label class="col-xs-4  control-label near-padding-right" for="orgName">组织单位</label>
+                                        <div class="col-xs-8  no-padding">
+                                            <input type="text" class="form-control" id="orgName" placeholder="请选择组织单位" autocomplete="off" onclick="initTree()">
+                                            <input type="hidden" id="orgNo" name="orgNo" >
+                                            <div id="treeDiv" style="display:none;overflow:scroll; width:294px; height:400px;background-color: white;position:absolute;z-index:9999;border: 1px solid #DDDDDD">
+                                                <ul id="treeDemo" class="ztree"></ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-4 form-group no-padding">
+                                        <label class="col-xs-4 control-label near-padding-right" for="flowNo">流水号</label>
+                                        <div class="col-xs-8 no-padding">
+                                            <input type="text" class="form-control" placeholder="请输入流水号" id="flowNo">
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-4 form-group no-padding">
+                                        <label for="stakeNo" class="col-xs-4 control-label near-padding-right"> 桩编号</label>
+                                        <div class="col-xs-8 no-padding">
+                                            <input type="text" id="stakeNo" name="orgName" class="form-control" placeholder="请输入桩编号"/>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-xs-4 form-group no-padding">
+                                        <label class="col-xs-4  control-label near-padding-righ" >开始时间</label>
+                                        <div class=" date form_datetime col-xs-8 no-padding">
+                                            <div class="jeitem" style="width:100%">
+                                                <div class="jeinpbox" style="width:100%">
+                                                    <input type="text" class="jeinput" id="start_time"
+                                                           placeholder="请选择开始时间"  autocomplete="off" readonly="readonly">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-4 form-group no-padding">
+                                        <label class="col-xs-4 control-label near-padding-right">结束时间</label>
+                                        <div class="date form_datetime col-xs-8">
+                                            <div class="jeitem" style="width:100%">
+                                                <div class="jeinpbox" style="width:100%">
+                                                    <input type="text" class="jeinput" id="end_time"
+                                                           placeholder="请选择结束时间"  autocomplete="off" readonly="readonly">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-4 form-group no-padding">
+                                        <label class="col-xs-4 control-label near-padding-right" for="executeStatus">状态</label>
+                                        <div class="col-xs-8 no-padding">
+                                            <select id="executeStatus"  class="form-control " data-live-search="true" placeholder="请选择状态">
+                                                <option value="">请选择状态</option>
+                                                <option value="1">下发中</option>
+                                                <option value="2">下发成功</option>
+                                                <option value="3">下发失败</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                	<div class="col-xs-3 col-xs-offset-9">
+										<button type="button" class="btn btn-primary " id="search-btn">
+											<span class="glyphicon glyphicon-search"></span>查询
+										</button>
+										<button type="button" class="btn btn-warning " id="run-reset-btn">
+											<span class="glyphicon glyphicon-repeat"></span>重置
+										</button>
+                                </div>
+                         </div>
+                    </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="toolbar">
+        <a class="btn btn-default btn-sm" data-toggle="collapse" href="#collapse_search" id="btn_collapse_search" >
+            <span class="glyphicon glyphicon-search" aria-hidden="true"></span> 检索 </a>
+    </div>
+    <div class="table-responsive">
+        <table class="table text-nowrap"  id="planTable" ></table>
+    </div>
+</div>
+</body>
+</html>

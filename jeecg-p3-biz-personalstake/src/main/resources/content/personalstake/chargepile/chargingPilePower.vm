@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+#parse("content/personalstake/common/resource.vm")
+<script type="text/javascript" src="$!{basePath}/content/js/chargingPile/chargingPilePower.js"></script>
+	<style>
+		.fixed-table-toolbar .bs-bars, .fixed-table-toolbar .search, .fixed-table-toolbar .columns{
+			margin-bottom:2px;
+			}
+		.control-label{
+			padding-left:0px;
+			padding-right:0px;
+		}
+		.form-control{
+			padding-left:0px;
+			padding-right:0px;
+		}
+	</style>
+
+</head>
+<body>
+<div class="panel-body" style="padding-bottom:0px;">
+    <!-- 搜索 -->
+    <div class="accordion-group">
+            <div class="accordion-inner">
+                <div class="panel panel-default" style="margin-bottom: 0px;">
+                    <div class="panel-body">
+                        <form id="searchForm" class="searchForm form-horizontal clearfix"
+                              style="margin-top:0.6cm;" action="" method="post">
+                  <div class="row">
+					<div class="col-xs-3 form-group no-padding">
+									<label class="col-sm-5 control-label near-padding-right" for="orgName">组织单位</label>
+									<div class="col-sm-7 no-padding">
+										<input type="text" class="form-control" id="orgName" placeholder="请选择组织单位" autocomplete="off" onclick="initTree()">
+									<input type="hidden" id="orgNo" name="orgNo">
+									<div id="treeDiv"
+										style="display: none; overflow: scroll; width: 294px; height: 400px; background-color: white; position: absolute; z-index: 9999; border: 1px solid #DDDDDD">
+										<ul id="treeDemo" class="ztree"></ul>
+									</div>
+									</div>
+						</div>
+					
+					<div class="col-xs-3 form-group no-padding">
+						<label class="col-sm-5 control-label near-padding-right" for="stakeName">充电桩名称</label>
+						<div class="col-sm-7 no-padding">
+							<input type="text" class="form-control" placeholder="请输入充电桩名称" id="stakeName">
+						</div>
+					</div>
+					
+						<div class="col-xs-3 form-group no-padding">
+						<label class="col-sm-5 control-label near-padding-right" for="start_time">开始时间</label>
+						<div class="input-group date form_datetime col-sm-7 ">
+							<div class="jeitem" style="width:100%">
+								<div class="jeinpbox" style="width:100%">
+									<input type="text" class="jeinput" id="start_time"
+										   placeholder="请选择开始时间"  autocomplete="off" readonly="readonly">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-xs-3 form-group no-padding">
+						<label class="col-sm-5 control-label near-padding-right" for="end_time">结束时间</label>
+						<div class="input-group date form_datetime col-sm-7">
+							<div class="jeitem" style="width:100%">
+								<div class="jeinpbox" style="width:100%">
+									<input type="text" class="jeinput" id="end_time"
+										   placeholder="请选择结束时间"  autocomplete="off" readonly="readonly">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+				
+				<div class="col-xs-3 form-group no-padding">
+						<label class="col-sm-5 control-label near-padding-right" for="cdz">充电桩编号</label>
+						<div class="col-sm-7 no-padding">
+							<input type="text" class="form-control" placeholder="请输入充电桩编号" id="cdz">
+						</div>
+					</div>
+				
+				
+				
+					<div class="col-xs-8 form-group">
+						<button type="button" class="btn btn-warning pull-right" id="run-reset-btn">
+							<span class="glyphicon glyphicon-refresh"></span>重置
+						</button>
+						<button type="button" class="btn btn-primary pull-right" id="search-btn">
+							<span class="glyphicon glyphicon-search"></span>查询
+						</button>
+					</div>
+				</div>
+			</form>
+                    </div>
+                </div>
+        </div>
+    </div>
+<div style="margin-top:30px">
+	<table class="table text-nowrap" id="chargingPilePowerTable" ></table>
+</div>
+</div>
+
+<script>
+
+</script>
+</body>
+</html>

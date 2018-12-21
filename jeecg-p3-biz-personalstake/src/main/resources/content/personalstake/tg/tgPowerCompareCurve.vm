@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    #parse("content/personalstake/common/resource.vm")
+    <script type="text/javascript" src="$!{basePath}/content/js/tg/tgPowerCompareCurve.js"></script>
+    <title>台区历史数据对比（台区负荷和充电桩负荷）</title>
+</head>
+<body>
+<div class="panel-body" style="padding-bottom:0px;">
+    <!-- 搜索 -->
+    <div class="accordion-group" style="height:20%">
+        <div class="accordion-inner">
+            <div class="panel panel-default" style="margin-bottom: 0px;">
+                <div class="panel-body">
+                    <form id="searchForm" class="searchForm form-horizontal clearfix"
+                          style="margin-top:0.6cm;padding: 0 20p" action="" method="post">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <label
+                                        class="col-md-5 control-label near-padding-right"
+                                        for="orgName">组织单位</label>
+                                <div class="col-md-7 no-padding">
+                                    <input type="text" class="form-control" id="orgName" placeholder="请选择组织单位"
+                                           autocomplete="off" onclick="initTree()">
+                                    <input type="hidden" id="orgNo" name="orgNo">
+                                    <div id="treeDiv" class="treeDiv"
+                                         style="display:none; overflow:scroll; width:260px; height:400px; background-color: white; position:absolute; z-index:9999;border: 1px solid #DDDDDD">
+                                        <ul id="treeDemo" class="ztree"></ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <label for="startDate" class="col-md-3 control-label near-padding-right">开始日期</label>
+                                <div class=" date form_datetime col-md-3 no-padding">
+                                    <div class="jeitem" style="width:100%">
+                                        <div class="jeinpbox" style="width:100%">
+                                            <input type="text" class="jeinput" id="startDate"
+                                                   placeholder="请选择时间" autocomplete="off" readonly="readonly">
+                                        </div>
+                                    </div>
+                                </div>
+                                <label for="endDate" class="col-md-3 control-label"> 结束日期 </label>
+                                <div class=" date form_datetime col-md-3 no-padding">
+                                    <div class="jeitem" style="width:100%">
+                                        <div class="jeinpbox" style="width:100%">
+                                            <input type="text" class="jeinput" id="endDate"
+                                                   placeholder="请选择时间" autocomplete="off" readonly="readonly">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-2" style="height:42px;border-radius:2px;text-align:center">
+                                <button type="button" class="btn btn-primary" id="search-btn">
+                                    <span class="glyphicon glyphicon-search"></span>查询
+                                </button>
+                                <button type="button" class="btn btn-warning" id="reset-btn">
+                                    <span class="glyphicon glyphicon-repeat"></span>重置
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="charts" style="height:75%;margin-top:2%"></div>
+</div>
+</body>
+</html>

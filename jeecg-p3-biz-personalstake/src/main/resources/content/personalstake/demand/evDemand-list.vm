@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+#parse("content/personalstake/common/resource.vm")
+<script type="text/javascript" src="$!{basePath}/content/js/queryManager/demandQuery.js"></script>
+<title>充电需求管理查询</title>
+</head>
+<body>
+<input type="hidden" id="TG_ID" value="$!{TG_ID}"/>
+<div class="panel-body" style="padding-bottom:0px;">
+    <!-- 搜索 -->
+    <div class="accordion-group">
+        <div id="collapse_search" class="accordion-body collapse">
+            <div class="accordion-inner">
+                <div class="panel panel-default" style="margin-bottom: 0px;">
+                    <div class="panel-body">
+                        <form id="searchForm" class="searchForm form-horizontal clearfix" method="post">
+							<div class="row">
+							   <div class="col-xs-4 form-group no-padding">
+									<label class="col-xs-5 control-label near-padding-right" for="orgName">组织单位</label>
+									<div class="col-xs-7 no-padding">
+										<input type="text" class="form-control" id="orgName" placeholder="请选择组织单位" autocomplete="off" onclick="initTree()">
+									<input type="hidden" id="orgNo" name="orgNo">
+									<div id="treeDiv"
+										style="display: none; overflow: scroll; width: 294px; height: 400px; background-color: white; position: absolute; z-index: 9999; border: 1px solid #DDDDDD">
+										<ul id="treeDemo" class="ztree"></ul>
+									</div>
+									</div>
+						       </div>
+							   <div class="col-xs-4 form-group no-padding">
+			                      <label class="col-xs-5 control-label near-padding-right" for="userType">需求来源</label>
+									<div class="col-xs-7 no-padding">
+										<select id="userType"  class="form-control selectpicker" data-live-search="true" placeholder="请选择订单来源">
+                                            <option value="">请选择订单来源</option>
+											<option value="1">分享充电</option>
+							         		<option value="2">有序充电</option>
+							         		<option value="3">蓝牙充电</option>
+							        	</select>
+									</div>
+			                    </div>
+				                <div class="col-xs-4 form-group no-padding">
+			                        <label class="col-xs-5 control-label near-padding-right" for="odId">订单编号</label>
+									<div class="col-xs-7 no-padding">
+										<input type="text" class="form-control" id="odId" placeholder="请输入订单编号">
+									</div>
+			                   	</div>
+							</div>
+							<div class="row">
+      								<div class="col-xs-4 form-group no-padding">
+                                        <label class="col-xs-5  control-label near-padding-righ" >开始时间</label>
+                                        <div class=" date form_datetime col-xs-7 no-padding">
+                                            <div class="jeitem" style="width:100%">
+                                                <div class="jeinpbox" style="width:100%">
+                                                    <input type="text" class="jeinput" id="start_time"
+                                                           placeholder="请选择开始时间"  autocomplete="off" readonly="readonly">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-4 form-group no-padding">
+                                        <label class="col-xs-5 control-label near-padding-right">结束时间</label>
+                                        <div class="date form_datetime col-xs-7">
+                                            <div class="jeitem" style="width:100%">
+                                                <div class="jeinpbox" style="width:100%">
+                                                    <input type="text" class="jeinput" id="end_time"
+                                                           placeholder="请选择结束时间"  autocomplete="off" readonly="readonly">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+									<div class="col-xs-4 form-group no-padding">
+										<label class="col-xs-5 control-label near-padding-right" for="stakeNo">桩编号</label>
+										<div class="col-xs-7 no-padding">
+											<input type="text" class="form-control" id="stakeNo" placeholder="请输入桩编号">
+										</div>
+									</div>																																																				
+							</div>
+							<div class="row">
+									<div class="col-xs-4 form-group no-padding">   		                        
+									  <label class="col-xs-5 control-label near-padding-right" for="odModel">充电类型</label>
+										<div class="col-xs-7 no-padding">
+											<select id="odModel"  class="form-control selectpicker" data-live-search="true" placeholder="请选择订单类型">
+                                                <option value="">请选择订单类型</option>
+												<option value="1">立即充电</option>
+												<option value="2">有序充电</option>
+											</select>
+										</div>
+			                        </div>
+									<div class="col-xs-4 form-group no-padding">
+									  <label class="col-xs-5 control-label near-padding-right" for="status">状态类型</label>
+										<div class="col-xs-7 no-padding">
+											<select id="status"  class="form-control selectpicker" data-live-search="true" placeholder="请选择状态类型">
+												<option value="">请选择状态类型</option>
+												<option value="1">成功</option>
+												<option value="0">失败</option>
+											</select>
+										</div>
+			                        </div>
+									<div class="col-xs-2 col-xs-offset-2">
+										<div>
+											<a type="button" onclick="jeecgDemoSearch();" class="btn btn-primary">
+													<span class="glyphicon glyphicon-search" aria-hidden="true"></span> 查询</a>
+											<a type="button" onclick="jeecgDemoRest();" class="btn btn-warning">
+												<span class="glyphicon glyphicon-repeat" aria-hidden="true"></span> 重置</a>
+										</div>
+									</div>																																									
+							</div>
+						 </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="toolbar">
+        <a class="btn btn-default btn-sm" data-toggle="collapse" href="#collapse_search" id="btn_collapse_search" >
+            <span class="glyphicon glyphicon-search" aria-hidden="true"></span> 检索 </a>
+    </div>
+	<div class="table-responsive " >
+		<table id="orderList" class="table table-bordered table-hover" style="table-layout: fixed;"></table>
+	</div>
+</div>
+</body>
+</html>

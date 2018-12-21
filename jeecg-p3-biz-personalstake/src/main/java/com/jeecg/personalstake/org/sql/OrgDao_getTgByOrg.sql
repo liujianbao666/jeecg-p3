@@ -1,0 +1,1 @@
+SELECT count(*)  FROM t_s_depart WHERE org_code= :pid

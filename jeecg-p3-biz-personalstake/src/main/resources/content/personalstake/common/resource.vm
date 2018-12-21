@@ -1,0 +1,40 @@
+<script type="text/javascript" src="$!{basePath}/content/plug-in/jquery/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="$!{basePath}/content/plug-in/jquery-plugs/form/jquery-form.js"> </script>
+
+<link rel="stylesheet" href="$!{basePath}/content/plug-in/bootstrap3.3.5/css/bootstrap.css" type="text/css" >
+<script type="text/javascript" src="$!{basePath}/content/plug-in/bootstrap3.3.5/js/bootstrap.js"></script>
+
+
+<link rel="stylesheet" href="$!{basePath}/content/plug-in/bootstrap/css/bootstrap-select.css"  type="text/css">
+<script type="text/javascript" src="$!{basePath}/content/plug-in/bootstrap/js/bootstrap-select.js"> </script>
+
+
+<link rel="stylesheet" href="$!{basePath}/content/plug-in/jsdate/css/date.css" type="text/css">
+<link rel="stylesheet" href="$!{basePath}/content/plug-in/jsdate/css/jeDate-test.css" type="text/css">
+<link rel="stylesheet" href="$!{basePath}/content/plug-in/jquery-plugs/datetimepicker/jquery.datetimepicker.css" type="text/css">
+<script type="text/javascript" src="$!{basePath}/content/plug-in/jsdate/js/date.js"></script>
+
+
+
+<link rel="stylesheet" href="$!{basePath}/content/plug-in/bootstrap/css/bootstrapValidator.css"  type="text/css">
+<script type="text/javascript" src="$!{basePath}/content/plug-in/bootstrap/js/bootstrapValidator.js"> </script>
+<script type="text/javascript" src="$!{basePath}/content/plug-in/bootstrap/js/bootstrap-dialog.js"> </script>
+<script type="text/javascript" src="$!{basePath}/content/plug-in/bootstrap/js/bootstrap-notify.js"> </script>
+
+<script type="text/javascript" src="$!{basePath}/content/plug-in/bootstrap-table/bootstrap-table.js"></script>
+<link rel="stylesheet" href="$!{basePath}/content/plug-in/bootstrap-table/bootstrap-table.min.css" type="text/css" >
+<script type="text/javascript" src="$!{basePath}/content/plug-in/bootstrap-table/locale/bootstrap-table-zh-CN.min.js"></script>
+
+<script type="text/javascript" src="$!{basePath}/content/plug-in/echarts/echarts-4.10.js" ></script>
+
+<script type="text/javascript" src="$!{basePath}/content/plug-in/ztree/js/jquery.ztree.all.min.js"></script>
+<script type="text/javascript" src="$!{basePath}/content/plug-in/ztree/js/jquery.ztree.exhide.min.js"></script>
+<link rel="stylesheet" href="$!{basePath}/content/plug-in/ztree/bootstrap_zTree/css/bootstrapStyle/bootstrapStyle.css" type="text/css">
+
+<script type="text/javascript" src="$!{basePath}/content/js/common/orgSearch.js" ></script>
+<script type="text/javascript" src="$!{basePath}/content/js/common/treeDiv.js" ></script>
+<script type="text/javascript" src="$!{basePath}/content/js/common/common.js" ></script>
+<script type="text/javascript" src="$!{basePath}/content/js/common/confirm.js" ></script>
+<link rel="stylesheet" href="$!{basePath}/content/plug-in/modify.css" type="text/css">
+
+  <!-- <link rel="stylesheet" href="$!{basePath}/content/plug-in/form.css" type="text/css">    全景监控类型页面单独引入这个css-->

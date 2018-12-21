@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+#parse("content/personalstake/common/resource.vm")
+<script type="text/javascript" src="$!{basePath}/content/js/chargingShare/approvalFeedBackInfoPage.js"></script>
+
+<title>审核反馈信息页面</title>
+</head>
+<body>
+	<div>
+		<div class="modal-body">
+		    <form id="addForm" name="addForm" method="post" class="form-horizontal" role="form">
+		        <div class="form-group">
+		        	<label for="userName" class="col-sm-2 control-label">充电桩编号</label>
+		        	<div class="col-sm-8" style="padding-right:0px">
+		        		<input type="text" id="stakeNo" name="stakeNo" readonly="readonly" class="form-control" value="${stakeNo}" />
+		        	</div>
+		        </div>
+		       <div class="form-group">
+					<label for="checkStatus" class="col-sm-2 control-label">审核结果</label>
+					<div class="col-sm-8" style="padding-right:0px">
+						<select class="form-control" id="checkStatus" disabled="disabled" name="checkStatus">
+								<option selected value="1">审核通过</option>
+								<option  value="2">审核失败</option>								
+						</select>
+					</div>
+				</div>
+				<div class="form-group">
+					<label for="approvalOpinion" class="col-sm-2 control-label ">审核意见反馈</label>
+					<div class="col-sm-10">
+						<textarea class="form-control" id="approvalOpinion" readonly="readonly" name="approvalOpinion" rows="3"></textarea>
+					</div>
+				</div>
+		    </form>
+		</div>
+	</div>
+	<div class='notifications'></div>
+</body>
+</html>

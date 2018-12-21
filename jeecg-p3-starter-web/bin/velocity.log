@@ -1,0 +1,8 @@
+2018-11-21 13:37:30,448 - ResourceManager : unable to find resource 'content/personalstake/main/evCg-list.vm' in any resource loader.
+2018-11-21 13:37:38,657 - ResourceManager : unable to find resource 'content/personalstake/main/evCg-list.vm' in any resource loader.
+2018-11-22 10:56:07,173 - ResourceManager : unable to find resource 'content/yxcd/main/menu.vm' in any resource loader.
+2018-11-22 10:56:07,174 - #parse(): cannot find template 'content/yxcd/main/menu.vm', called at content/personalStakeManage/main/index.vm[line 27, column 5]
+2018-11-22 11:07:36,101 - ResourceManager : unable to find resource 'content/yxcd/main/menu.vm' in any resource loader.
+2018-11-22 11:07:36,103 - #parse(): cannot find template 'content/yxcd/main/menu.vm', called at content/personalStakeManage/main/index.vm[line 27, column 5]
+2018-11-22 12:11:28,894 - ResourceManager : unable to find resource 'content/yxcd/main/menu.vm' in any resource loader.
+2018-11-22 12:11:28,898 - #parse(): cannot find template 'content/yxcd/main/menu.vm', called at content/personalStakeManage/main/index.vm[line 27, column 5]

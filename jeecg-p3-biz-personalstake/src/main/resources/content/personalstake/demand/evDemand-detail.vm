@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+#parse("content/base/back/common/head.vm")
+<body style='overflow:scroll;overflow-x:hidden'>
+	<div class="container bs-docs-container" style="width:100%;">
+		<div class="row">
+			<div class="panel panel-default">
+				<div class="panel-heading">详情</div>
+				<div class="panel-body">
+					<form class="form-horizontal" role="form">
+						<fieldset disabled>
+																		<div class="form-group mno">
+												<label for="inputEmail3" class="col-sm-2 control-label" style="text-align:left;">充电桩编号</label>
+												<div class="col-sm-2">
+													<input type="text" value="$!{evDemand.stakeno}" name="stakeno" id="stakeno" class="form-control" />
+												</div>
+											</div>
+											<div class="form-group mno">
+												<label for="inputEmail3" class="col-sm-2 control-label" style="text-align:left;">充电接口标识（枪号）</label>
+												<div class="col-sm-2">
+													<input type="text" value="$!{evDemand.chargeport}" name="chargeport" id="chargeport" class="form-control" />
+												</div>
+											</div>
+											<div class="form-group mno">
+												<label for="inputEmail3" class="col-sm-2 control-label" style="text-align:left;">用户ID</label>
+												<div class="col-sm-2">
+													<input type="text" value="$!{evDemand.acId}" name="acId" id="acId" class="form-control" />
+												</div>
+											</div>
+											<div class="form-group mno">
+												<label for="inputEmail3" class="col-sm-2 control-label" style="text-align:left;">车辆id</label>
+												<div class="col-sm-2">
+													<input type="text" value="$!{evDemand.vhId}" name="vhId" id="vhId" class="form-control" />
+												</div>
+											</div>
+											<div class="form-group mno">
+												<label for="inputEmail3" class="col-sm-2 control-label" style="text-align:left;">充电用户类型（1：普通用户(分享)；2：桩主）</label>
+												<div class="col-sm-2">
+													<input type="text" value="$!{evDemand.userType}" name="userType" id="userType" class="form-control" />
+												</div>
+											</div>
+											<div class="form-group mno">
+												<label for="inputEmail3" class="col-sm-2 control-label" style="text-align:left;">充电分类（1正常充电、2有序充电）</label>
+												<div class="col-sm-2">
+													<input type="text" value="$!{evDemand.odModel}" name="odModel" id="odModel" class="form-control" />
+												</div>
+											</div>
+											<div class="form-group mno">
+												<label for="inputEmail3" class="col-sm-2 control-label" style="text-align:left;">用车时间</label>
+												<div class="col-sm-2">
+													<input type="text" value="$!dateTool.format("yyyy-MM-dd",$!{evDemand.vuseTime})" name="vuseTime" id="vuseTime" class="form-control" />
+												</div>
+											</div>
+											<div class="form-group mno">
+												<label for="inputEmail3" class="col-sm-2 control-label" style="text-align:left;">剩余电量</label>
+												<div class="col-sm-2">
+													<input type="text" value="$!{evDemand.remaincapacity}" name="remaincapacity" id="remaincapacity" class="form-control" />
+												</div>
+											</div>
+											<div class="form-group mno">
+												<label for="inputEmail3" class="col-sm-2 control-label" style="text-align:left;">目标电量</label>
+												<div class="col-sm-2">
+													<input type="text" value="$!{evDemand.targetcapacity}" name="targetcapacity" id="targetcapacity" class="form-control" />
+												</div>
+											</div>
+											<div class="form-group mno">
+												<label for="inputEmail3" class="col-sm-2 control-label" style="text-align:left;">充电需求电量</label>
+												<div class="col-sm-2">
+													<input type="text" value="$!{evDemand.chargingDemand}" name="chargingDemand" id="chargingDemand" class="form-control" />
+												</div>
+											</div>
+											<div class="form-group mno">
+												<label for="inputEmail3" class="col-sm-2 control-label" style="text-align:left;">创建时间</label>
+												<div class="col-sm-2">
+													<input type="text" value="$!dateTool.format("yyyy-MM-dd",$!{evDemand.createTime})" name="createTime" id="createTime" class="form-control" />
+												</div>
+											</div>
+											<div class="form-group mno">
+												<label for="inputEmail3" class="col-sm-2 control-label" style="text-align:left;">订单编号</label>
+												<div class="col-sm-2">
+													<input type="text" value="$!{evDemand.odid}" name="odid" id="odid" class="form-control" />
+												</div>
+											</div>
+											<div class="form-group mno">
+												<label for="inputEmail3" class="col-sm-2 control-label" style="text-align:left;">状态0充电失败1生成订单</label>
+												<div class="col-sm-2">
+													<input type="text" value="$!{evDemand.status}" name="status" id="status" class="form-control" />
+												</div>
+											</div>
+						</fieldset>
+						<div class="form-group mno">
+							<div class="col-sm-offset-1 col-sm-6">
+								<button type="button" class="btn btn-default" id="formReturn" data-dismiss="modal" onclick="doUrl('$!{basePath}/personalstake/evDemand.do?list')"><i class="fa fa-arrow-circle-left"></i> 返回</button>
+							 </div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

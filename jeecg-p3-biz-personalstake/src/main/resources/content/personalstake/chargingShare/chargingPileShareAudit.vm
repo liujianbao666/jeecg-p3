@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+#parse("content/personalstake/common/resource.vm")
+<script type="text/javascript" src="$!{basePath}/content/js/chargingShare/chargingPileShareAduit.js"></script>
+
+	
+	<title>充电桩共享审核信息管理</title>
+	<style>
+		.fixed-table-toolbar .bs-bars, .fixed-table-toolbar .search, .fixed-table-toolbar .columns{
+			margin-bottom:2px;
+			}
+		.control-label{
+			padding-left:0px;
+			padding-right:0px;
+		}
+		.form-control{
+			padding-left:0px;
+		}
+
+	</style>
+
+</head>
+<body>
+	<div  class="panel-body" style="padding-bottom:0px;">
+	 <div class="accordion-group">
+	  <div class="accordion-inner">
+	   <div class="panel panel-default" style="margin-bottom: 0px;">
+	   
+		     <div class="panel-body" style="padding: 0px;">
+			<form id="searchForm" class="searchForm form-horizontal clearfix" style="margin-top:0.6cm;">
+			<div class="form-horizontal col-xs-12 pull-left search-region" role="form">
+			
+			
+				<div class="row">
+
+
+				  <div class="col-xs-3 form-group no-padding">
+									<label class="col-sm-4 control-label near-padding-right" for="orgName">组织单位</label>
+									<div class="col-sm-8 no-padding">
+										<input type="text" class="form-control" id="orgName" placeholder="请选择组织单位" autocomplete="off" onclick="initTree()">
+									<input type="hidden" id="orgNo" name="orgNo">
+									<div id="treeDiv"
+										style="display: none; overflow: scroll; width: 294px; height: 400px; background-color: white; position: absolute; z-index: 9999; border: 1px solid #DDDDDD">
+										<ul id="treeDemo" class="ztree"></ul>
+									</div>
+									</div>
+				  </div>
+
+					
+					<div class="col-xs-3 form-group no-padding">
+						<label class="col-sm-4 control-label near-padding-right" for="stakeName">充电桩名称</label>
+						<div class="col-sm-8 no-padding">
+							<input type="text" class="form-control" placeholder="请输入充电桩名称" id="stakeName">
+						</div>
+					</div>
+					
+					    <div class="col-xs-3 form-group no-padding">
+					<label class="col-sm-4 control-label near-padding-right" for="start_time">分享开始时间</label>
+					  <div class=" date form_datetime col-sm-8 no-padding">
+						<div class="jeitem" style="width:100%">
+							<div class=" jeinpbox" style="width:100%">
+								<input type="text" class="jeinput" id="start_time" placeholder="请选择开始时间"  autocomplete="off" readonly="readonly">
+							</div>
+						</div>
+						</div>
+					  </div>
+					    <div class="col-xs-3 form-group no-padding">
+						  <label class="col-sm-4 control-label near-padding-right" for="end_time">分享结束时间</label>
+						  <div class=" date form_datetime col-sm-8 no-padding">
+							<div class="jeitem" style="width:100%">
+								<div class="jeinpbox" style="width:100%">
+									<input type="text" class="jeinput" id="end_time"
+										   placeholder="请选择结束时间"  autocomplete="off" readonly="readonly">
+								</div>
+							</div>
+					      </div>
+					    </div>
+					
+					
+				</div>
+				<div class="row">
+				
+					    <div class="col-xs-3 form-group no-padding">
+						<label class="col-sm-4 control-label near-padding-right" for="stakeNo">充电桩编号</label>
+						<div class="col-sm-8 no-padding">
+							<input type="text" class="form-control" placeholder="请输入充电桩编号" id="stakeNo">
+						</div>
+					</div>
+					      <div class="col-xs-3 form-group no-padding" style="text-align: right;"></div>
+					       <div class="col-xs-3 form-group no-padding" style="text-align: right;"></div>
+					       <div class="col-xs-3 form-group no-padding" style="text-align: right;">
+							
+							<button type="button" class="btn btn-primary" id="search-btn">
+								<span class="glyphicon glyphicon-search"></span>查询
+							</button>
+							
+							<button type="button" class="btn btn-warning " id="run-reset-btn">
+								<span class="glyphicon glyphicon-repeat"></span>重置
+							</button>
+					        </div>
+					   </div>	
+			      </div>
+			  </form>
+			</div>
+	   </div>
+	  </div>
+	</div>
+<div class="table-responsive">
+	<table class="table text-nowrap" id="chargingPileShareAuditTable" ></table>
+</div>
+</div>
+
+<script>
+
+
+</script>
+</body>
+</html>

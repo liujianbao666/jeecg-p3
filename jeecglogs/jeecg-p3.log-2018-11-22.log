@@ -1,0 +1,334 @@
+[INFO][2018-11-22 10:54:35,285][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-22 10:54:35,331][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-22 10:54:35,358][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-22 10:54:35,359][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[INFO][2018-11-22 10:54:35,361][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalStakeManage.chargepile.dao.EvCgRunDao }
+[INFO][2018-11-22 10:54:35,367][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalStakeManage.evd.dao.EvCgDao }
+[INFO][2018-11-22 10:54:35,367][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalStakeManage.order.dao.EvOdDao }
+[INFO][2018-11-22 10:54:35,367][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalStakeManage.tg.dao.GTgDao }
+[ERROR][2018-11-22 10:54:37,383][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-22 10:54:37,713][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN][2018-11-22 10:55:38,555][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/tSLog.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-22 10:55:47,093][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/favicon.ico] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-22 11:07:21,209][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalStakeManage.chargepile.dao.EvCgDao }
+[INFO][2018-11-22 11:07:21,215][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalStakeManage.chargepile.dao.EvCgRunDao }
+[INFO][2018-11-22 11:07:21,216][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalStakeManage.order.dao.EvOdDao }
+[INFO][2018-11-22 11:07:21,216][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalStakeManage.tg.dao.GTgDao }
+[INFO][2018-11-22 11:07:21,216][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-22 11:07:21,217][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-22 11:07:21,217][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-22 11:07:21,218][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-22 11:07:23,737][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-22 11:07:24,440][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-22 11:11:43,727][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[WARN][2018-11-22 11:11:44,213][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalStakeManage/images/favicon.ico] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-22 11:11:53,105][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/p3/wxActInvite.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-22 11:12:54,477][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[INFO][2018-11-22 11:12:56,576][com.jeecg.personalStakeManage.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 11:34:16,559][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalStakeManage.chargepile.dao.EvCgDao }
+[INFO][2018-11-22 11:34:16,581][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalStakeManage.chargepile.dao.EvCgRunDao }
+[INFO][2018-11-22 11:34:16,582][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalStakeManage.order.dao.EvOdDao }
+[INFO][2018-11-22 11:34:16,582][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalStakeManage.tg.dao.GTgDao }
+[INFO][2018-11-22 11:34:16,582][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-22 11:34:16,583][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-22 11:34:16,583][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-22 11:34:16,583][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-22 11:34:22,278][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-22 11:34:26,904][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-22 11:43:41,088][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[INFO][2018-11-22 11:43:44,279][com.jeecg.personalStakeManage.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 11:56:33,930][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[INFO][2018-11-22 11:56:35,944][com.jeecg.personalStakeManage.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 12:05:28,542][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[INFO][2018-11-22 12:05:30,527][com.jeecg.personalStakeManage.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 12:08:10,782][com.jeecg.personalStakeManage.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:05:30,974][org.jeecgframework.p3.cg.factory.CodeGenerateFactory]----------------------------代码生成完毕---------------------------
+[INFO][2018-11-22 14:18:02,348][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-22 14:18:02,353][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-22 14:18:02,354][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-22 14:18:02,354][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-22 14:18:03,663][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-22 14:18:04,405][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN][2018-11-22 14:18:25,731][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/favicon.ico] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-22 14:19:15,088][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[WARN][2018-11-22 14:19:15,390][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/images/favicon.ico] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-22 14:19:16,726][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/p3/wxActInvite.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-22 14:19:48,684][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web//personalstake/evCg.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-22 14:19:54,779][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/evCg.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-22 14:26:12,803][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/evCg.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-22 14:27:05,459][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.chargepile.dao.EvCgDao }
+[INFO][2018-11-22 14:27:05,463][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.chargepile.dao.EvCgRunDao }
+[INFO][2018-11-22 14:27:05,463][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.demand.dao.EvDemandDao }
+[INFO][2018-11-22 14:27:05,463][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-22 14:27:05,463][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-22 14:27:05,463][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-22 14:27:05,463][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-22 14:27:06,459][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-22 14:27:06,796][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-22 14:27:53,561][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:29:09,407][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:33:52,189][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:34:20,263][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:34:52,238][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:35:48,098][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:36:20,205][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:36:40,348][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:40:27,660][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:40:41,792][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:41:38,156][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:41:45,624][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:43:11,920][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.chargepile.dao.EvCgDao }
+[INFO][2018-11-22 14:43:11,923][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.chargepile.dao.EvCgRunDao }
+[INFO][2018-11-22 14:43:11,923][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.demand.dao.EvDemandDao }
+[INFO][2018-11-22 14:43:11,923][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-22 14:43:11,923][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-22 14:43:11,923][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-22 14:43:11,923][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-22 14:43:12,693][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-22 14:43:12,899][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-22 14:43:22,299][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:43:33,641][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:44:08,905][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:44:19,851][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:45:05,559][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:51:30,128][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:52:48,979][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:54:59,874][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 14:57:39,348][com.jeecg.personalstake.chargepile.web.EvCgController][0:0:0:0:0:0:0:1]  back list
+[WARN][2018-11-22 15:27:41,992][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/personalstake/evCg.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-22 15:29:09,074][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/personalstake/evCg.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-22 16:11:27,523][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.chargepile.dao.EvCgDao }
+[INFO][2018-11-22 16:11:27,529][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.demand.dao.EvDemandDao }
+[INFO][2018-11-22 16:11:27,529][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-22 16:11:27,530][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-22 16:11:27,530][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-22 16:11:27,530][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[INFO][2018-11-22 16:11:27,530][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.chargepile.dao.EvCgRunDao }
+[WARN][2018-11-22 16:11:30,718][org.springframework.web.context.support.XmlWebApplicationContext]Exception encountered during context initialization - cancelling refresh attempt
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'evCgRunService' defined in file [D:\workspace\jeecg-p3\jeecg-p3-biz-personalstake\target\classes\com\jeecg\personalstake\chargepile\service\impl\EvCgRunServiceImpl.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.jeecg.personalstake.chargepile.service.impl.EvCgRunServiceImpl]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The import com.jeecg.personalstake.chargepile.dao.EvCgRunDao cannot be resolved
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1077)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1022)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:229)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:706)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.__refresh(AbstractApplicationContext.java:482)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:41010)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.jeecg.personalstake.chargepile.service.impl.EvCgRunServiceImpl]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The import com.jeecg.personalstake.chargepile.dao.EvCgRunDao cannot be resolved
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:164)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1070)
+	... 23 more
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	The import com.jeecg.personalstake.chargepile.dao.EvCgRunDao cannot be resolved
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+
+	at com.jeecg.personalstake.chargepile.service.impl.EvCgRunServiceImpl.<init>(EvCgRunServiceImpl.java:8)
+	at sun.reflect.GeneratedConstructorAccessor35.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45005)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:148)
+	... 25 more
+[ERROR][2018-11-22 16:11:32,114][org.springframework.web.context.ContextLoader]Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'evCgRunService' defined in file [D:\workspace\jeecg-p3\jeecg-p3-biz-personalstake\target\classes\com\jeecg\personalstake\chargepile\service\impl\EvCgRunServiceImpl.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.jeecg.personalstake.chargepile.service.impl.EvCgRunServiceImpl]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The import com.jeecg.personalstake.chargepile.dao.EvCgRunDao cannot be resolved
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1077)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1022)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:229)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:706)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.__refresh(AbstractApplicationContext.java:482)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:41010)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.jeecg.personalstake.chargepile.service.impl.EvCgRunServiceImpl]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The import com.jeecg.personalstake.chargepile.dao.EvCgRunDao cannot be resolved
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:164)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1070)
+	... 23 more
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	The import com.jeecg.personalstake.chargepile.dao.EvCgRunDao cannot be resolved
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+	EvCgRunDao cannot be resolved to a type
+
+	at com.jeecg.personalstake.chargepile.service.impl.EvCgRunServiceImpl.<init>(EvCgRunServiceImpl.java:8)
+	at sun.reflect.GeneratedConstructorAccessor35.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45005)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:148)
+	... 25 more
+[INFO][2018-11-22 16:13:14,844][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.chargepile.dao.EvCgDao }
+[INFO][2018-11-22 16:13:14,846][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.demand.dao.EvDemandDao }
+[INFO][2018-11-22 16:13:14,846][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-22 16:13:14,847][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-22 16:13:14,847][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-22 16:13:14,847][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[INFO][2018-11-22 16:13:14,847][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.chargepile.dao.EvCgRunDao }
+[ERROR][2018-11-22 16:13:15,761][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-22 16:13:15,966][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN][2018-11-22 17:08:58,813][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/ChargingPileRunController.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-22 19:14:06,934][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.chargepile.dao.EvCgDao }
+[INFO][2018-11-22 19:14:06,937][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.demand.dao.EvDemandDao }
+[INFO][2018-11-22 19:14:06,937][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.order.dao.EvOdDao }
+[INFO][2018-11-22 19:14:06,938][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.org.dao.OrgDao }
+[INFO][2018-11-22 19:14:06,938][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-22 19:14:06,938][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-22 19:14:06,938][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-22 19:14:06,938][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-22 19:14:07,849][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-22 19:14:08,145][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-22 19:14:22,312][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:14:44,839][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:14:47,065][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:17:07,097][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:17:09,000][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:17:09,197][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:17:09,381][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:17:09,566][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:18:12,409][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:18:13,582][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:18:13,758][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:18:13,938][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:18:14,123][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:18:14,286][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:18:49,868][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:19:00,922][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:19:01,692][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[WARN][2018-11-22 19:19:07,668][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-22 19:19:16,331][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[WARN][2018-11-22 19:19:18,616][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/p3/wxActInvite.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-22 19:20:24,378][com.jeecg.base.BackController][0:0:0:0:0:0:0:1]  back home
+[WARN][2018-11-22 19:21:21,796][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake//personalstake/evOd.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-22 19:21:27,115][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:21:35,348][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:23:52,043][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.chargepile.dao.EvCgDao }
+[INFO][2018-11-22 19:23:52,046][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.demand.dao.EvDemandDao }
+[INFO][2018-11-22 19:23:52,046][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.order.dao.EvOdDao }
+[INFO][2018-11-22 19:23:52,047][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.personalstake.org.dao.OrgDao }
+[INFO][2018-11-22 19:23:52,047][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.dao.TSOperationDao }
+[INFO][2018-11-22 19:23:52,047][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.mutiLang.dao.P3MutiLangDao }
+[INFO][2018-11-22 19:23:52,047][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.dict.dao.TSTypeDao }
+[INFO][2018-11-22 19:23:52,047][org.jeecgframework.minidao.aop.MiniDaoHandler]register minidao name is { com.jeecg.core.biz.tag.select.table.dao.CustomTableDao }
+[ERROR][2018-11-22 19:23:52,920][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2018-11-22 19:23:53,174][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2018-11-22 19:24:16,792][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:24:27,744][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:24:39,423][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:24:57,895][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:26:09,439][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:26:13,380][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:29:14,452][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:30:10,722][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:30:23,973][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:33:16,281][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:33:17,994][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:36:17,161][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:38:30,636][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:39:43,741][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[WARN][2018-11-22 19:39:44,480][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/loginController.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-22 19:39:45,718][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/personalstake/org.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-22 19:40:21,876][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[WARN][2018-11-22 19:40:23,038][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/loginController.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-22 19:40:24,229][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/personalstake/org.do] in DispatcherServlet with name 'springmvc'
+[WARN][2018-11-22 19:40:24,803][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/personalstake/evOd.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-22 19:41:02,455][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[WARN][2018-11-22 19:41:03,205][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/loginController.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-22 19:41:13,906][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[INFO][2018-11-22 19:43:13,403][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
+[WARN][2018-11-22 19:43:14,463][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/jeecg-p3-starter-web/personalstake/loginController.do] in DispatcherServlet with name 'springmvc'
+[INFO][2018-11-22 19:43:15,851][com.jeecg.personalstake.order.web.EvOdController][0:0:0:0:0:0:0:1]  back list
